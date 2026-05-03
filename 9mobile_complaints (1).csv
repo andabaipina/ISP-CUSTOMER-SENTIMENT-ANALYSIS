@@ -1,0 +1,92 @@
+id,isp,source,text_clean,compound,label,published_at,topics
+361,9mobile,twitter,glo internet speed is embarrassingly slow cannot work from home,-0.2904,negative,2026-05-01T01:18:38.802481,Slow speed
+362,9mobile,news,9mobile faces backlash over unexpected data depletion complaints surge,-0.1725,negative,2026-03-07T12:08:38.802513,Data depletion
+364,9mobile,news,9mobile customer complaints up 35 percent in latest industry report,-0.2547,negative,2026-04-09T09:55:38.802566,Other
+365,9mobile,twitter,9mobile coverage dead zone in my entire neighborhood useless,-0.3782,negative,2026-02-16T10:55:38.802596,Network outage
+366,9mobile,news,9mobile network reliability drops amid infrastructure challenges,-0.4232,negative,2026-03-28T13:18:38.802622,Other
+369,9mobile,twitter,airtel data finished before it should have suspected billing fraud,-0.2021,negative,2026-03-28T15:03:38.802698,Data depletion
+375,9mobile,twitter,glo internet disconnects every few minutes how is this acceptable,-0.287,negative,2026-03-13T11:45:38.802857,Other
+377,9mobile,twitter,airtel keeps throttling my connection after half my data is used,-0.309,negative,2026-04-23T04:27:38.802907,Data depletion
+378,9mobile,twitter,airtel keeps throttling my connection after half my data is used,-0.283,negative,2026-04-17T09:18:38.802932,Data depletion
+380,9mobile,news,9mobile customer complaints up 35 percent in latest industry report,-1.0,negative,2026-03-21T22:10:38.802982,Other
+381,9mobile,twitter,airtel data finished before it should have suspected billing fraud,-0.2078,negative,2026-02-23T18:16:38.803008,Data depletion
+382,9mobile,news,9mobile outage affects thousands of customers in major cities,-0.4794,negative,2026-04-18T03:50:38.803039,Network outage
+383,9mobile,news,9mobile outage affects thousands of customers in major cities,-0.059,negative,2026-04-04T10:35:38.803067,Network outage
+384,9mobile,twitter,mtn network congestion every evening ruins my streaming experience,-0.1698,negative,2026-05-01T17:09:38.803091,Other
+386,9mobile,twitter,mtn network congestion every evening ruins my streaming experience,-0.7344,negative,2026-04-21T14:01:38.803142,Other
+388,9mobile,twitter,glo internet disconnects every few minutes how is this acceptable,-0.3799,negative,2026-03-02T20:05:38.803192,Other
+390,9mobile,twitter,airtel data finished before it should have suspected billing fraud,-0.1788,negative,2026-03-11T10:30:38.803242,Data depletion
+392,9mobile,twitter,glo internet disconnects every few minutes how is this acceptable,-0.2021,negative,2026-04-03T09:09:38.803307,Other
+395,9mobile,twitter,glo network always slow during peak hours so frustrating,-0.3543,negative,2026-03-20T23:00:38.803394,Slow speed
+396,9mobile,twitter,airtel keeps throttling my connection after half my data is used,-1.0,negative,2026-03-17T22:10:38.803418,Data depletion
+397,9mobile,twitter,airtel data finished before it should have suspected billing fraud,-0.3977,negative,2026-02-11T03:50:38.803444,Data depletion
+399,9mobile,news,9mobile outage affects thousands of customers in major cities,-0.7125,negative,2026-04-08T14:22:38.803498,Network outage
+400,9mobile,twitter,glo internet disconnects every few minutes how is this acceptable,-0.2543,negative,2026-02-16T07:34:38.803523,Other
+402,9mobile,twitter,mtn network congestion every evening ruins my streaming experience,-0.4534,negative,2026-02-18T17:49:38.803579,Other
+403,9mobile,news,9mobile slapped with fine by ncc over quality of service violations,-0.6687,negative,2026-03-06T12:07:38.803605,Customer service
+406,9mobile,twitter,mtn internet completely down for 3 hours terrible service,-0.3177,negative,2026-02-03T05:24:38.803682,Network outage
+408,9mobile,twitter,glo network always slow during peak hours so frustrating,-0.501,negative,2026-03-22T02:09:38.803732,Slow speed
+409,9mobile,news,9mobile network reliability drops amid infrastructure challenges,-0.2868,negative,2026-03-08T13:29:38.803760,Other
+410,9mobile,twitter,mtn network congestion every evening ruins my streaming experience,-0.6061,negative,2026-03-26T00:13:38.803784,Other
+412,9mobile,news,9mobile slapped with fine by ncc over quality of service violations,-0.2385,negative,2026-03-09T09:02:38.803841,Customer service
+413,9mobile,twitter,glo internet disconnects every few minutes how is this acceptable,-0.4381,negative,2026-02-25T14:16:38.803867,Other
+416,9mobile,twitter,airtel data finished before it should have suspected billing fraud,-0.2973,negative,2026-03-27T23:17:38.803944,Data depletion
+419,9mobile,twitter,glo internet disconnects every few minutes how is this acceptable,-0.1995,negative,2026-02-10T03:49:38.804022,Other
+420,9mobile,twitter,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.2359,negative,2026-03-20T17:12:38.804046,Customer service
+421,9mobile,news,9mobile network reliability drops amid infrastructure challenges,-0.3124,negative,2026-02-15T12:41:38.804073,Other
+422,9mobile,twitter,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.6416,negative,2026-02-07T18:09:38.804100,Customer service
+423,9mobile,news,9mobile customer complaints up 35 percent in latest industry report,-0.1898,negative,2026-04-24T16:12:38.804127,Other
+424,9mobile,twitter,mtn network congestion every evening ruins my streaming experience,-0.2241,negative,2026-03-08T14:05:38.804152,Other
+430,9mobile,news,9mobile customer complaints up 35 percent in latest industry report,-0.1814,negative,2026-04-02T10:56:38.804318,Other
+432,9mobile,twitter,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.2146,negative,2026-02-20T00:25:38.804537,Customer service
+433,9mobile,twitter,worst customer service experience ever with glo never again,-0.3577,negative,2026-03-29T01:52:38.804567,Customer service
+434,9mobile,twitter,mtn internet completely down for 3 hours terrible service,-0.3499,negative,2026-02-26T17:18:38.804592,Network outage
+435,9mobile,twitter,airtel keeps throttling my connection after half my data is used,-0.3124,negative,2026-03-18T20:07:38.804615,Data depletion
+439,9mobile,twitter,airtel keeps throttling my connection after half my data is used,-0.9214,negative,2026-04-29T03:03:38.804716,Data depletion
+440,9mobile,twitter,airtel data finished before it should have suspected billing fraud,-0.6071,negative,2026-02-13T18:57:38.804740,Data depletion
+441,9mobile,twitter,glo network always slow during peak hours so frustrating,-0.271,negative,2026-04-24T11:53:38.804765,Slow speed
+442,9mobile,news,9mobile faces backlash over unexpected data depletion complaints surge,-0.3263,negative,2026-02-17T17:34:38.804799,Data depletion
+443,9mobile,twitter,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.486,negative,2026-03-26T07:39:38.804825,Customer service
+444,9mobile,twitter,mtn internet completely down for 3 hours terrible service,-0.0767,negative,2026-02-01T02:14:38.804849,Network outage
+447,9mobile,twitter,airtel data finished before it should have suspected billing fraud,-0.3825,negative,2026-02-23T02:20:38.804929,Data depletion
+449,9mobile,twitter,glo network always slow during peak hours so frustrating,-0.5026,negative,2026-02-19T04:21:38.804980,Slow speed
+451,9mobile,twitter,worst customer service experience ever with glo never again,-0.1537,negative,2026-02-10T02:24:38.805036,Customer service
+452,9mobile,twitter,glo internet disconnects every few minutes how is this acceptable,-0.147,negative,2026-02-28T01:44:38.805064,Other
+453,9mobile,twitter,glo network always slow during peak hours so frustrating,-0.4481,negative,2026-04-24T07:16:38.805090,Slow speed
+454,9mobile,twitter,mtn internet completely down for 3 hours terrible service,-0.3503,negative,2026-03-28T14:28:38.805114,Network outage
+455,9mobile,twitter,glo network always slow during peak hours so frustrating,-0.5347,negative,2026-04-30T16:02:38.805140,Slow speed
+456,9mobile,twitter,9mobile coverage dead zone in my entire neighborhood useless,-0.712,negative,2026-04-16T23:32:38.805163,Network outage
+457,9mobile,twitter,worst customer service experience ever with glo never again,-0.2144,negative,2026-03-10T19:47:38.805190,Customer service
+458,9mobile,twitter,glo internet speed is embarrassingly slow cannot work from home,-0.5273,negative,2026-04-26T00:18:38.805215,Slow speed
+461,9mobile,twitter,worst customer service experience ever with glo never again,-0.2721,negative,2026-04-15T01:55:38.805304,Customer service
+463,9mobile,twitter,worst customer service experience ever with glo never again,-0.4107,negative,2026-03-27T10:03:38.805368,Customer service
+464,9mobile,twitter,airtel data finished before it should have suspected billing fraud,-0.222,negative,2026-03-13T14:18:38.805392,Data depletion
+465,9mobile,twitter,mtn network congestion every evening ruins my streaming experience,-0.4707,negative,2026-04-16T15:45:38.805416,Other
+467,9mobile,twitter,glo network always slow during peak hours so frustrating,-0.3276,negative,2026-02-22T07:08:38.805467,Slow speed
+468,9mobile,twitter,airtel data finished before it should have suspected billing fraud,-0.1399,negative,2026-02-14T05:49:38.805491,Data depletion
+470,9mobile,twitter,glo network always slow during peak hours so frustrating,-0.1899,negative,2026-02-01T21:44:38.805542,Slow speed
+472,9mobile,news,9mobile customer complaints up 35 percent in latest industry report,-0.0944,negative,2026-03-23T11:21:38.805594,Other
+473,9mobile,news,9mobile customer complaints up 35 percent in latest industry report,-0.3296,negative,2026-02-19T19:55:38.805621,Other
+474,9mobile,twitter,glo internet speed is embarrassingly slow cannot work from home,-0.0502,negative,2026-02-23T15:26:38.805645,Slow speed
+477,9mobile,twitter,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.9861,negative,2026-03-26T13:11:38.805719,Customer service
+479,9mobile,news,9mobile customer complaints up 35 percent in latest industry report,-0.3027,negative,2026-03-15T15:35:38.805769,Other
+880,9mobile,news,9mobile blames network blackouts fibre cuts frustrated customers move techcabal 9mobile blames network blackouts fibre cuts frustrated customers move techcabal,-0.9393,negative,"Wed, 02 Oct 2024 07:00:00 GMT",Other
+886,9mobile,news,mobile battles lost ground guardian nigeria news mobile battles lost ground guardian nigeria news,-0.8316,negative,"Wed, 13 Aug 2025 07:00:00 GMT",Other
+889,9mobile,news,9mobile mtn worst hit fibre cuts power failures cause record network outages may techcabal 9mobile mtn worst hit fibre cuts power failures cause record network outages may techcabal,-0.9559,negative,"Wed, 21 May 2025 07:00:00 GMT",Network outage
+891,9mobile,news,9mobile apologises service downtime cites fire vandalism punch newspapers 9mobile apologises service downtime cites fire vandalism punch newspapers,-0.296,negative,"Wed, 18 Dec 2024 08:00:00 GMT",Network outage
+893,9mobile,news,ncc urged intervene 9mobile service disruptions persist punch newspapers ncc urged intervene 9mobile service disruptions persist punch newspapers,-0.5859,negative,"Wed, 18 Dec 2024 08:00:00 GMT",Customer service
+897,9mobile,news,9mobile accelerates network restoration following fire incident lagos data centre leadership newspapers 9mobile accelerates network restoration following fire incident lagos data centre leadership newspapers,-0.5859,negative,"Sat, 21 Dec 2024 06:59:58 GMT",Slow speed
+900,9mobile,news,service outage 9mobile blames fire incident lagos data center fibre cuts nairametrics service outage 9mobile blames fire incident lagos data center fibre cuts nairametrics,-0.9118,negative,"Thu, 19 Dec 2024 08:00:00 GMT",Network outage
+901,9mobile,news,9mobile mifi subscribers lament depletion data guardian nigeria news 9mobile mifi subscribers lament depletion data guardian nigeria news,-0.7184,negative,"Mon, 04 Dec 2017 08:00:00 GMT",Data depletion
+909,9mobile,news,9mobile poor network nigerians blast service provider prolonged shutdown daily post nigeria 9mobile poor network nigerians blast service provider prolonged shutdown daily post nigeria,-0.7351,negative,"Thu, 19 Aug 2021 07:00:00 GMT",Network outage
+912,9mobile,news,frustration grows 9mobile customers face weeks long service disruptions osundefender frustration grows 9mobile customers face weeks long service disruptions osundefender,-0.875,negative,"Thu, 03 Apr 2025 07:00:00 GMT",Customer service
+1161,9mobile,news,mobile battles lost ground guardian nigeria news mobile battles lost ground guardian nigeria news,-0.8316,negative,"Wed, 13 Aug 2025 07:00:00 GMT",Other
+1169,9mobile,news,9mobile blames network blackouts fibre cuts frustrated customers move techcabal 9mobile blames network blackouts fibre cuts frustrated customers move techcabal,-0.9393,negative,"Wed, 02 Oct 2024 07:00:00 GMT",Other
+1177,9mobile,news,9mobile mtn worst hit fibre cuts power failures cause record network outages may techcabal 9mobile mtn worst hit fibre cuts power failures cause record network outages may techcabal,-0.9559,negative,"Wed, 21 May 2025 07:00:00 GMT",Network outage
+1180,9mobile,news,9mobile apologises service downtime cites fire vandalism punch newspapers 9mobile apologises service downtime cites fire vandalism punch newspapers,-0.296,negative,"Wed, 18 Dec 2024 08:00:00 GMT",Network outage
+1182,9mobile,news,ncc urged intervene 9mobile service disruptions persist punch newspapers ncc urged intervene 9mobile service disruptions persist punch newspapers,-0.5859,negative,"Wed, 18 Dec 2024 08:00:00 GMT",Customer service
+1188,9mobile,news,9mobile accelerates network restoration following fire incident lagos data centre leadership newspapers 9mobile accelerates network restoration following fire incident lagos data centre leadership newspapers,-0.5859,negative,"Sat, 21 Dec 2024 06:59:58 GMT",Slow speed
+1189,9mobile,news,service outage 9mobile blames fire incident lagos data center fibre cuts nairametrics service outage 9mobile blames fire incident lagos data center fibre cuts nairametrics,-0.9118,negative,"Thu, 19 Dec 2024 08:00:00 GMT",Network outage
+1190,9mobile,news,9mobile mifi subscribers lament depletion data guardian nigeria news 9mobile mifi subscribers lament depletion data guardian nigeria news,-0.7184,negative,"Mon, 04 Dec 2017 08:00:00 GMT",Data depletion
+1198,9mobile,news,9mobile poor network nigerians blast service provider prolonged shutdown daily post nigeria 9mobile poor network nigerians blast service provider prolonged shutdown daily post nigeria,-0.7351,negative,"Thu, 19 Aug 2021 07:00:00 GMT",Network outage
+1202,9mobile,news,frustration grows 9mobile customers face weeks long service disruptions osundefender frustration grows 9mobile customers face weeks long service disruptions osundefender,-0.875,negative,"Thu, 03 Apr 2025 07:00:00 GMT",Customer service

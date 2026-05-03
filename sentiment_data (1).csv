@@ -1,0 +1,721 @@
+id,source,isp,text_clean,compound,positive,neutral,negative,label,date,month,week,hour_of_day,url
+676,news,Smile,smile introduces new business data plans for enterprise customers,0.0317,0.0216,0.2224,0.0,neutral,2026-05-02,2026-05,2026-W17,15,https://example.com/smile/2010
+233,twitter,Airtel,smile internet perfect for working from home no complaints,0.5576,0.4841,0.1916,0.0,positive,2026-05-02,2026-05,2026-W17,12,https://example.com/airtel/1086
+275,twitter,Glo,9mobile coverage dead zone in my entire neighborhood useless,-1.0,0.0,0.2484,0.7713,negative,2026-05-02,2026-05,2026-W17,8,https://example.com/glo/6371
+561,news,Spectranet,spectranet signs partnership deal with international telecom provider,0.0494,0.0489,0.2035,0.0,neutral,2026-05-02,2026-05,2026-W17,6,https://example.com/spectranet/1799
+580,news,Spectranet,spectranet customer satisfaction scores hit five year high,0.1558,0.1498,0.2939,0.0,positive,2026-05-02,2026-05,2026-W17,4,https://example.com/spectranet/1181
+604,twitter,Smile,worst customer service experience ever with glo never again,-0.1262,0.0,0.3142,0.0771,negative,2026-05-02,2026-05,2026-W17,1,https://example.com/smile/6008
+170,news,Airtel,airtel outage affects thousands of customers in major cities,-0.3177,0.0,0.4513,0.2695,negative,2026-05-02,2026-05,2026-W17,1,https://example.com/airtel/3675
+86,news,MTN,mtn slapped with fine by ncc over quality of service violations,-0.2617,0.0,0.1722,0.2059,negative,2026-05-02,2026-05,2026-W17,0,https://example.com/mtn/2329
+289,twitter,Glo,glo internet disconnects every few minutes how is this acceptable,-0.1436,0.0,0.1658,0.1434,negative,2026-05-02,2026-05,2026-W17,0,https://example.com/glo/1868
+294,twitter,Glo,glo network always slow during peak hours so frustrating,-0.4701,0.0,0.352,0.3401,negative,2026-05-01,2026-05,2026-W17,20,https://example.com/glo/1692
+556,twitter,Spectranet,airtel 5g speeds are incredible streaming without buffering,0.6509,0.6102,0.3895,0.0,positive,2026-05-01,2026-05,2026-W17,17,https://example.com/spectranet/6307
+384,twitter,9mobile,mtn network congestion every evening ruins my streaming experience,-0.1698,0.0,0.4584,0.1316,negative,2026-05-01,2026-05,2026-W17,17,https://example.com/9mobile/6732
+69,news,MTN,mtn expands 4g lte coverage across 12 new states improves connectivity,0.1007,0.0617,0.3793,0.0,positive,2026-05-01,2026-05,2026-W17,12,https://example.com/mtn/8485
+661,twitter,Smile,spectranet fibre connection never disappoints fast reliable,0.0896,0.0808,0.321,0.0,positive,2026-05-01,2026-05,2026-W17,12,https://example.com/smile/3893
+353,news,Glo,glo expands 4g lte coverage across 12 new states improves connectivity,0.4298,0.3505,0.4995,0.0,positive,2026-05-01,2026-05,2026-W17,9,https://example.com/glo/9123
+475,twitter,9mobile,airtel network coverage improved a lot in my area good job,0.1653,0.1538,0.4059,0.0,positive,2026-05-01,2026-05,2026-W17,5,https://example.com/9mobile/3652
+237,twitter,Airtel,glo network coverage map updated for 2024,0.0249,0.0195,0.3252,0.0,neutral,2026-05-01,2026-05,2026-W17,2,https://example.com/airtel/8019
+361,twitter,9mobile,glo internet speed is embarrassingly slow cannot work from home,-0.2904,0.0,0.229,0.1831,negative,2026-05-01,2026-05,2026-W17,1,https://example.com/9mobile/7533
+455,twitter,9mobile,glo network always slow during peak hours so frustrating,-0.5347,0.0,0.2041,0.4588,negative,2026-04-30,2026-04,2026-W17,16,https://example.com/9mobile/1438
+372,twitter,9mobile,spectranet fibre connection never disappoints fast reliable,0.7832,0.5467,0.4144,0.0,positive,2026-04-30,2026-04,2026-W17,9,https://example.com/9mobile/8171
+55,news,MTN,mtn launches fibre broadband service fastest speeds in region,0.5963,0.4379,0.3737,0.0,positive,2026-04-30,2026-04,2026-W17,6,https://example.com/mtn/8769
+153,news,Airtel,airtel cuts data prices by 20 percent for all subscribers,0.4257,0.3661,0.3146,0.0,positive,2026-04-30,2026-04,2026-W17,1,https://example.com/airtel/7220
+634,twitter,Smile,spectranet fibre connection never disappoints fast reliable,0.2567,0.168,0.3377,0.0,positive,2026-04-29,2026-04,2026-W17,11,https://example.com/smile/9679
+585,news,Spectranet,spectranet network reliability drops amid infrastructure challenges,-0.1628,0.0,0.1954,0.1143,negative,2026-04-29,2026-04,2026-W17,6,https://example.com/spectranet/4282
+277,twitter,Glo,mtn customer service actually resolved my issue quickly impressed,0.3148,0.2764,0.2283,0.0,positive,2026-04-29,2026-04,2026-W17,5,https://example.com/glo/2320
+439,twitter,9mobile,airtel keeps throttling my connection after half my data is used,-0.9214,0.0,0.3678,0.8904,negative,2026-04-29,2026-04,2026-W17,3,https://example.com/9mobile/3921
+379,twitter,9mobile,airtel 5g speeds are incredible streaming without buffering,0.2341,0.1421,0.2399,0.0,positive,2026-04-28,2026-04,2026-W17,20,https://example.com/9mobile/3814
+310,twitter,Glo,glo network always slow during peak hours so frustrating,-0.2083,0.0,0.4801,0.1541,negative,2026-04-28,2026-04,2026-W17,18,https://example.com/glo/1170
+485,twitter,Spectranet,mtn customer service actually resolved my issue quickly impressed,0.0623,0.0451,0.332,0.0,positive,2026-04-28,2026-04,2026-W17,13,https://example.com/spectranet/4572
+106,news,MTN,mtn customer complaints up 35 percent in latest industry report,-0.0826,0.0,0.2525,0.0607,negative,2026-04-28,2026-04,2026-W17,5,https://example.com/mtn/9294
+510,news,Spectranet,spectranet launches fibre broadband service fastest speeds in region,0.1221,0.1154,0.2999,0.0,positive,2026-04-27,2026-04,2026-W17,23,https://example.com/spectranet/2988
+222,twitter,Airtel,glo network coverage map updated for 2024,-0.0196,0.0,0.2276,0.0171,neutral,2026-04-27,2026-04,2026-W17,21,https://example.com/airtel/6403
+90,news,MTN,mtn cuts data prices by 20 percent for all subscribers,0.1958,0.1181,0.3013,0.0,positive,2026-04-27,2026-04,2026-W17,11,https://example.com/mtn/3613
+172,twitter,Airtel,airtel network coverage improved a lot in my area good job,0.1059,0.0808,0.4257,0.0,positive,2026-04-27,2026-04,2026-W17,10,https://example.com/airtel/4526
+346,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.3282,0.0,0.1574,0.2478,negative,2026-04-27,2026-04,2026-W17,10,https://example.com/glo/8560
+650,news,Smile,smile cuts data prices by 20 percent for all subscribers,0.0982,0.0795,0.1065,0.0,positive,2026-04-27,2026-04,2026-W17,10,https://example.com/smile/6379
+228,news,Airtel,airtel cuts data prices by 20 percent for all subscribers,0.4176,0.3825,0.1428,0.0,positive,2026-04-27,2026-04,2026-W17,7,https://example.com/airtel/4686
+281,twitter,Glo,9mobile coverage dead zone in my entire neighborhood useless,-0.6587,0.0,0.4204,0.5278,negative,2026-04-27,2026-04,2026-W17,7,https://example.com/glo/2026
+24,news,MTN,mtn cuts data prices by 20 percent for all subscribers,0.3269,0.3181,0.117,0.0,positive,2026-04-27,2026-04,2026-W17,4,https://example.com/mtn/9290
+504,twitter,Spectranet,mtn data prices unchanged this quarter,-0.0055,0.0,0.3384,0.0046,neutral,2026-04-26,2026-04,2026-W16,20,https://example.com/spectranet/3186
+290,twitter,Glo,glo network always slow during peak hours so frustrating,-0.485,0.0,0.4041,0.3869,negative,2026-04-26,2026-04,2026-W16,19,https://example.com/glo/3173
+218,twitter,Airtel,glo network always slow during peak hours so frustrating,-0.1027,0.0,0.2436,0.0747,negative,2026-04-26,2026-04,2026-W16,11,https://example.com/airtel/3939
+301,twitter,Glo,airtel network coverage improved a lot in my area good job,0.1606,0.1448,0.3331,0.0,positive,2026-04-26,2026-04,2026-W16,8,https://example.com/glo/2369
+234,twitter,Airtel,just renewed my mtn data plan value for money as always,0.5488,0.4176,0.2759,0.0,positive,2026-04-26,2026-04,2026-W16,7,https://example.com/airtel/2985
+460,twitter,9mobile,smile internet perfect for working from home no complaints,0.1663,0.1392,0.2261,0.0,positive,2026-04-26,2026-04,2026-W16,2,https://example.com/9mobile/8756
+448,news,9mobile,9mobile wins best telecom provider award customer satisfaction survey,0.5523,0.5052,0.3581,0.0,positive,2026-04-26,2026-04,2026-W16,0,https://example.com/9mobile/2453
+458,twitter,9mobile,glo internet speed is embarrassingly slow cannot work from home,-0.5273,0.0,0.4595,0.4701,negative,2026-04-26,2026-04,2026-W16,0,https://example.com/9mobile/6694
+438,twitter,9mobile,just renewed my mtn data plan value for money as always,0.2181,0.1643,0.332,0.0,positive,2026-04-25,2026-04,2026-W16,23,https://example.com/9mobile/6089
+682,news,Smile,smile cuts data prices by 20 percent for all subscribers,0.208,0.1881,0.1421,0.0,positive,2026-04-25,2026-04,2026-W16,16,https://example.com/smile/8881
+119,twitter,MTN,smile internet perfect for working from home no complaints,0.3256,0.2719,0.1389,0.0,positive,2026-04-25,2026-04,2026-W16,16,https://example.com/mtn/6544
+18,twitter,MTN,airtel network coverage improved a lot in my area good job,0.1149,0.0966,0.4129,0.0,positive,2026-04-25,2026-04,2026-W16,13,https://example.com/mtn/2918
+694,twitter,Smile,mtn internet completely down for 3 hours terrible service,-0.2697,0.0,0.3515,0.2616,negative,2026-04-25,2026-04,2026-W16,10,https://example.com/smile/5272
+551,twitter,Spectranet,mtn customer service actually resolved my issue quickly impressed,0.4827,0.4564,0.3792,0.0,positive,2026-04-25,2026-04,2026-W16,0,https://example.com/spectranet/8213
+669,news,Smile,smile network reliability drops amid infrastructure challenges,-0.3433,0.0,0.233,0.3056,negative,2026-04-24,2026-04,2026-W16,20,https://example.com/smile/7369
+687,twitter,Smile,glo internet disconnects every few minutes how is this acceptable,-0.4494,0.0,0.1169,0.3802,negative,2026-04-24,2026-04,2026-W16,19,https://example.com/smile/4538
+57,twitter,MTN,glo network always slow during peak hours so frustrating,-0.4941,0.0,0.4188,0.4682,negative,2026-04-24,2026-04,2026-W16,17,https://example.com/mtn/2174
+596,twitter,Spectranet,mtn customer service actually resolved my issue quickly impressed,0.7783,0.4874,0.4619,0.0,positive,2026-04-24,2026-04,2026-W16,17,https://example.com/spectranet/3569
+423,news,9mobile,9mobile customer complaints up 35 percent in latest industry report,-0.1898,0.0,0.3189,0.1567,negative,2026-04-24,2026-04,2026-W16,16,https://example.com/9mobile/2746
+601,twitter,Smile,glo network always slow during peak hours so frustrating,-0.3119,0.0,0.4112,0.3024,negative,2026-04-24,2026-04,2026-W16,15,https://example.com/smile/9963
+441,twitter,9mobile,glo network always slow during peak hours so frustrating,-0.271,0.0,0.4732,0.2019,negative,2026-04-24,2026-04,2026-W16,11,https://example.com/9mobile/5964
+245,news,Glo,glo regulatory filing submitted to ncc for spectrum renewal,0.0339,0.0245,0.3255,0.0,neutral,2026-04-24,2026-04,2026-W16,11,https://example.com/glo/4499
+271,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.3165,0.0,0.1108,0.2787,negative,2026-04-24,2026-04,2026-W16,8,https://example.com/glo/2688
+453,twitter,9mobile,glo network always slow during peak hours so frustrating,-0.4481,0.0,0.318,0.4364,negative,2026-04-24,2026-04,2026-W16,7,https://example.com/9mobile/4029
+276,news,Glo,glo wins best telecom provider award customer satisfaction survey,0.1064,0.1062,0.422,0.0,positive,2026-04-24,2026-04,2026-W16,5,https://example.com/glo/5114
+143,news,Airtel,airtel slapped with fine by ncc over quality of service violations,-0.4792,0.0,0.3072,0.4273,negative,2026-04-24,2026-04,2026-W16,4,https://example.com/airtel/9377
+105,news,MTN,mtn cuts data prices by 20 percent for all subscribers,0.5347,0.3672,0.4493,0.0,positive,2026-04-23,2026-04,2026-W16,19,https://example.com/mtn/5048
+43,twitter,MTN,airtel data plan worth every naira excellent network coverage,0.128,0.1042,0.2388,0.0,positive,2026-04-23,2026-04,2026-W16,18,https://example.com/mtn/2662
+341,twitter,Glo,worst customer service experience ever with glo never again,-0.7987,0.0,0.402,0.5851,negative,2026-04-23,2026-04,2026-W16,17,https://example.com/glo/4416
+499,twitter,Spectranet,spectranet fibre connection never disappoints fast reliable,0.5866,0.4292,0.4282,0.0,positive,2026-04-23,2026-04,2026-W16,16,https://example.com/spectranet/8917
+295,news,Glo,glo slapped with fine by ncc over quality of service violations,-0.3866,0.0,0.308,0.2819,negative,2026-04-23,2026-04,2026-W16,14,https://example.com/glo/7639
+407,twitter,9mobile,mtn customer service actually resolved my issue quickly impressed,0.2158,0.1856,0.1219,0.0,positive,2026-04-23,2026-04,2026-W16,12,https://example.com/9mobile/3269
+198,twitter,Airtel,mtn internet completely down for 3 hours terrible service,-0.1496,0.0,0.1017,0.1129,negative,2026-04-23,2026-04,2026-W16,5,https://example.com/airtel/7746
+377,twitter,9mobile,airtel keeps throttling my connection after half my data is used,-0.309,0.0,0.3478,0.2711,negative,2026-04-23,2026-04,2026-W16,4,https://example.com/9mobile/7076
+93,twitter,MTN,mtn data prices unchanged this quarter,0.0484,0.0425,0.461,0.0,neutral,2026-04-23,2026-04,2026-W16,2,https://example.com/mtn/4777
+189,twitter,Airtel,spectranet vs smile which is better for small business,0.0042,0.0026,0.4177,0.0,neutral,2026-04-23,2026-04,2026-W16,0,https://example.com/airtel/1131
+459,twitter,9mobile,comparing mtn vs airtel data plans for monthly subscription,-0.005,0.0,0.2724,0.0044,neutral,2026-04-23,2026-04,2026-W16,0,https://example.com/9mobile/7712
+40,twitter,MTN,mtn internet speed has been great this week finally enjoying browsing,0.4638,0.3737,0.4683,0.0,positive,2026-04-22,2026-04,2026-W16,7,https://example.com/mtn/4387
+710,twitter,Smile,spectranet fibre connection never disappoints fast reliable,0.5727,0.3722,0.4644,0.0,positive,2026-04-21,2026-04,2026-W16,19,https://example.com/smile/6301
+114,twitter,MTN,airtel 5g speeds are incredible streaming without buffering,0.8548,0.775,0.4268,0.0,positive,2026-04-21,2026-04,2026-W16,16,https://example.com/mtn/8338
+386,twitter,9mobile,mtn network congestion every evening ruins my streaming experience,-0.7344,0.0,0.2502,0.4912,negative,2026-04-21,2026-04,2026-W16,14,https://example.com/9mobile/7576
+599,news,Spectranet,spectranet faces backlash over unexpected data depletion complaints surge,-0.3045,0.0,0.1451,0.2936,negative,2026-04-21,2026-04,2026-W16,10,https://example.com/spectranet/7134
+196,news,Airtel,airtel signs partnership deal with international telecom provider,0.0443,0.0385,0.3356,0.0,neutral,2026-04-21,2026-04,2026-W16,9,https://example.com/airtel/8096
+639,news,Smile,smile slapped with fine by ncc over quality of service violations,-0.2816,0.0,0.1424,0.1698,negative,2026-04-20,2026-04,2026-W16,10,https://example.com/smile/8727
+635,twitter,Smile,just renewed my mtn data plan value for money as always,0.1573,0.1087,0.1234,0.0,positive,2026-04-20,2026-04,2026-W16,5,https://example.com/smile/6480
+633,twitter,Smile,airtel keeps throttling my connection after half my data is used,-0.06,0.0,0.1327,0.0542,negative,2026-04-19,2026-04,2026-W15,22,https://example.com/smile/7985
+536,twitter,Spectranet,just renewed my mtn data plan value for money as always,0.1981,0.1649,0.1389,0.0,positive,2026-04-19,2026-04,2026-W15,18,https://example.com/spectranet/3406
+699,twitter,Smile,glo network always slow during peak hours so frustrating,-0.1088,0.0,0.1632,0.0987,negative,2026-04-19,2026-04,2026-W15,13,https://example.com/smile/8008
+534,twitter,Spectranet,airtel 5g speeds are incredible streaming without buffering,0.2597,0.1587,0.3649,0.0,positive,2026-04-19,2026-04,2026-W15,9,https://example.com/spectranet/8900
+50,news,MTN,mtn slapped with fine by ncc over quality of service violations,-0.4737,0.0,0.3845,0.3719,negative,2026-04-19,2026-04,2026-W15,8,https://example.com/mtn/8051
+254,news,Glo,glo wins best telecom provider award customer satisfaction survey,0.1468,0.1312,0.18,0.0,positive,2026-04-19,2026-04,2026-W15,7,https://example.com/glo/3091
+91,twitter,MTN,mtn network congestion every evening ruins my streaming experience,-0.1444,0.0,0.396,0.1322,negative,2026-04-19,2026-04,2026-W15,3,https://example.com/mtn/7443
+497,news,Spectranet,spectranet outage affects thousands of customers in major cities,-0.1599,0.0,0.2135,0.1074,negative,2026-04-19,2026-04,2026-W15,3,https://example.com/spectranet/9876
+360,twitter,Glo,mtn internet completely down for 3 hours terrible service,-0.1397,0.0,0.2693,0.0967,negative,2026-04-19,2026-04,2026-W15,1,https://example.com/glo/4947
+578,twitter,Spectranet,mtn internet speed has been great this week finally enjoying browsing,0.2564,0.1751,0.4329,0.0,positive,2026-04-19,2026-04,2026-W15,0,https://example.com/spectranet/7282
+664,twitter,Smile,spectranet fibre connection never disappoints fast reliable,0.5829,0.4874,0.3459,0.0,positive,2026-04-18,2026-04,2026-W15,22,https://example.com/smile/8615
+217,twitter,Airtel,airtel data finished before it should have suspected billing fraud,-0.0539,0.0,0.2724,0.0535,negative,2026-04-18,2026-04,2026-W15,19,https://example.com/airtel/5067
+663,twitter,Smile,mtn customer service actually resolved my issue quickly impressed,0.6332,0.5758,0.1632,0.0,positive,2026-04-18,2026-04,2026-W15,19,https://example.com/smile/9848
+113,twitter,MTN,just renewed my mtn data plan value for money as always,0.3021,0.2829,0.3475,0.0,positive,2026-04-18,2026-04,2026-W15,14,https://example.com/mtn/1296
+214,twitter,Airtel,glo network always slow during peak hours so frustrating,-0.3888,0.0,0.3703,0.2853,negative,2026-04-18,2026-04,2026-W15,13,https://example.com/airtel/8025
+621,twitter,Smile,airtel network coverage improved a lot in my area good job,0.1125,0.0703,0.4124,0.0,positive,2026-04-18,2026-04,2026-W15,7,https://example.com/smile/3567
+382,news,9mobile,9mobile outage affects thousands of customers in major cities,-0.4794,0.0,0.2551,0.3042,negative,2026-04-18,2026-04,2026-W15,3,https://example.com/9mobile/4701
+647,twitter,Smile,worst customer service experience ever with glo never again,-0.4204,0.0,0.459,0.3176,negative,2026-04-18,2026-04,2026-W15,2,https://example.com/smile/4791
+615,twitter,Smile,airtel data plan worth every naira excellent network coverage,0.3113,0.2814,0.2176,0.0,positive,2026-04-17,2026-04,2026-W15,21,https://example.com/smile/6406
+46,twitter,MTN,airtel keeps throttling my connection after half my data is used,-0.3761,0.0,0.1122,0.2661,negative,2026-04-17,2026-04,2026-W15,17,https://example.com/mtn/4598
+405,news,9mobile,9mobile wins best telecom provider award customer satisfaction survey,0.1029,0.0749,0.409,0.0,positive,2026-04-17,2026-04,2026-W15,10,https://example.com/9mobile/2952
+378,twitter,9mobile,airtel keeps throttling my connection after half my data is used,-0.283,0.0,0.3103,0.2269,negative,2026-04-17,2026-04,2026-W15,9,https://example.com/9mobile/3072
+671,twitter,Smile,9mobile coverage dead zone in my entire neighborhood useless,-0.3784,0.0,0.349,0.2818,negative,2026-04-17,2026-04,2026-W15,3,https://example.com/smile/1241
+141,twitter,Airtel,airtel data plan worth every naira excellent network coverage,0.1622,0.1027,0.273,0.0,positive,2026-04-17,2026-04,2026-W15,0,https://example.com/airtel/8700
+456,twitter,9mobile,9mobile coverage dead zone in my entire neighborhood useless,-0.712,0.0,0.2308,0.5691,negative,2026-04-16,2026-04,2026-W15,23,https://example.com/9mobile/8180
+715,twitter,Smile,airtel 5g speeds are incredible streaming without buffering,0.5613,0.4073,0.3629,0.0,positive,2026-04-16,2026-04,2026-W15,21,https://example.com/smile/5221
+718,news,Smile,smile outage affects thousands of customers in major cities,-0.1338,0.0,0.3862,0.0991,negative,2026-04-16,2026-04,2026-W15,17,https://example.com/smile/3700
+465,twitter,9mobile,mtn network congestion every evening ruins my streaming experience,-0.4707,0.0,0.1875,0.4214,negative,2026-04-16,2026-04,2026-W15,15,https://example.com/9mobile/3427
+338,twitter,Glo,mtn network congestion every evening ruins my streaming experience,-1.0,0.0,0.1844,0.703,negative,2026-04-16,2026-04,2026-W15,13,https://example.com/glo/7867
+291,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.6271,0.0,0.2507,0.4094,negative,2026-04-16,2026-04,2026-W15,7,https://example.com/glo/8720
+317,twitter,Glo,9mobile coverage dead zone in my entire neighborhood useless,-0.6267,0.0,0.2322,0.5949,negative,2026-04-16,2026-04,2026-W15,6,https://example.com/glo/2055
+548,twitter,Spectranet,mtn network maintenance scheduled for sunday morning,-0.0148,0.0,0.1671,0.013,neutral,2026-04-16,2026-04,2026-W15,1,https://example.com/spectranet/6393
+205,news,Airtel,airtel expands 4g lte coverage across 12 new states improves connectivity,0.2917,0.2075,0.229,0.0,positive,2026-04-15,2026-04,2026-W15,16,https://example.com/airtel/1988
+296,twitter,Glo,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.5747,0.0,0.3445,0.5513,negative,2026-04-15,2026-04,2026-W15,7,https://example.com/glo/9297
+201,twitter,Airtel,smile internet perfect for working from home no complaints,0.6484,0.6307,0.1805,0.0,positive,2026-04-15,2026-04,2026-W15,6,https://example.com/airtel/2333
+461,twitter,9mobile,worst customer service experience ever with glo never again,-0.2721,0.0,0.4964,0.1822,negative,2026-04-15,2026-04,2026-W15,1,https://example.com/9mobile/5880
+321,twitter,Glo,smile internet perfect for working from home no complaints,0.4627,0.2808,0.3935,0.0,positive,2026-04-15,2026-04,2026-W15,1,https://example.com/glo/8737
+602,news,Smile,smile network reliability drops amid infrastructure challenges,-0.1973,0.0,0.453,0.1274,negative,2026-04-14,2026-04,2026-W15,10,https://example.com/smile/3373
+649,twitter,Smile,9mobile coverage dead zone in my entire neighborhood useless,-0.0799,0.0,0.2895,0.0677,negative,2026-04-14,2026-04,2026-W15,10,https://example.com/smile/3169
+554,twitter,Spectranet,airtel data plan worth every naira excellent network coverage,0.1287,0.1174,0.4294,0.0,positive,2026-04-14,2026-04,2026-W15,7,https://example.com/spectranet/6157
+9,twitter,MTN,smile internet perfect for working from home no complaints,0.2717,0.2403,0.4564,0.0,positive,2026-04-14,2026-04,2026-W15,5,https://example.com/mtn/2310
+269,twitter,Glo,airtel network coverage improved a lot in my area good job,0.3454,0.273,0.2945,0.0,positive,2026-04-14,2026-04,2026-W15,3,https://example.com/glo/1365
+666,news,Smile,smile faces backlash over unexpected data depletion complaints surge,-0.2316,0.0,0.1145,0.1879,negative,2026-04-14,2026-04,2026-W15,1,https://example.com/smile/3801
+509,news,Spectranet,spectranet launches fibre broadband service fastest speeds in region,0.3836,0.3005,0.2705,0.0,positive,2026-04-14,2026-04,2026-W15,0,https://example.com/spectranet/4852
+594,twitter,Spectranet,comparing mtn vs airtel data plans for monthly subscription,0.0415,0.0349,0.2619,0.0,neutral,2026-04-13,2026-04,2026-W15,23,https://example.com/spectranet/3958
+337,twitter,Glo,mtn internet completely down for 3 hours terrible service,-0.1349,0.0,0.1699,0.1046,negative,2026-04-13,2026-04,2026-W15,22,https://example.com/glo/2246
+17,news,MTN,mtn outage affects thousands of customers in major cities,-0.4488,0.0,0.3106,0.3197,negative,2026-04-13,2026-04,2026-W15,19,https://example.com/mtn/4450
+478,twitter,9mobile,smile internet perfect for working from home no complaints,0.2272,0.2063,0.3057,0.0,positive,2026-04-13,2026-04,2026-W15,13,https://example.com/9mobile/6815
+662,news,Smile,smile cuts data prices by 20 percent for all subscribers,0.305,0.2773,0.1111,0.0,positive,2026-04-13,2026-04,2026-W15,13,https://example.com/smile/4405
+617,news,Smile,smile launches fibre broadband service fastest speeds in region,0.4967,0.3571,0.3564,0.0,positive,2026-04-13,2026-04,2026-W15,12,https://example.com/smile/4461
+89,twitter,MTN,mtn data prices unchanged this quarter,-0.0022,0.0,0.2493,0.002,neutral,2026-04-13,2026-04,2026-W15,12,https://example.com/mtn/2009
+144,news,Airtel,airtel expands 4g lte coverage across 12 new states improves connectivity,0.0642,0.0636,0.186,0.0,positive,2026-04-13,2026-04,2026-W15,8,https://example.com/airtel/4837
+462,twitter,9mobile,airtel data plan worth every naira excellent network coverage,0.3034,0.2176,0.1627,0.0,positive,2026-04-13,2026-04,2026-W15,8,https://example.com/9mobile/3777
+704,news,Smile,smile expands 4g lte coverage across 12 new states improves connectivity,0.0775,0.0716,0.1175,0.0,positive,2026-04-13,2026-04,2026-W15,7,https://example.com/smile/7824
+560,twitter,Spectranet,spectranet fibre connection never disappoints fast reliable,0.6096,0.4818,0.1577,0.0,positive,2026-04-12,2026-04,2026-W14,23,https://example.com/spectranet/8667
+13,news,MTN,mtn wins best telecom provider award customer satisfaction survey,0.2439,0.2089,0.3725,0.0,positive,2026-04-12,2026-04,2026-W14,22,https://example.com/mtn/9738
+357,news,Glo,glo launches fibre broadband service fastest speeds in region,0.1387,0.1345,0.1697,0.0,positive,2026-04-12,2026-04,2026-W14,20,https://example.com/glo/5587
+193,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.4196,0.3852,0.1328,0.0,positive,2026-04-12,2026-04,2026-W14,14,https://example.com/airtel/6233
+437,twitter,9mobile,airtel 5g speeds are incredible streaming without buffering,0.38,0.3774,0.3745,0.0,positive,2026-04-12,2026-04,2026-W14,13,https://example.com/9mobile/2267
+648,news,Smile,smile cuts data prices by 20 percent for all subscribers,0.1005,0.0829,0.1236,0.0,positive,2026-04-12,2026-04,2026-W14,12,https://example.com/smile/6003
+511,news,Spectranet,spectranet cuts data prices by 20 percent for all subscribers,0.2499,0.1537,0.1942,0.0,positive,2026-04-12,2026-04,2026-W14,9,https://example.com/spectranet/1664
+631,twitter,Smile,mtn internet speed has been great this week finally enjoying browsing,0.6821,0.6022,0.2889,0.0,positive,2026-04-12,2026-04,2026-W14,7,https://example.com/smile/5679
+628,news,Smile,smile faces backlash over unexpected data depletion complaints surge,-0.1348,0.0,0.3563,0.124,negative,2026-04-12,2026-04,2026-W14,2,https://example.com/smile/4435
+242,news,Glo,glo expands 4g lte coverage across 12 new states improves connectivity,0.4822,0.4487,0.305,0.0,positive,2026-04-11,2026-04,2026-W14,23,https://example.com/glo/9217
+94,news,MTN,mtn expands 4g lte coverage across 12 new states improves connectivity,0.2415,0.1804,0.3516,0.0,positive,2026-04-11,2026-04,2026-W14,22,https://example.com/mtn/4634
+508,news,Spectranet,spectranet launches fibre broadband service fastest speeds in region,0.1851,0.1177,0.2836,0.0,positive,2026-04-11,2026-04,2026-W14,21,https://example.com/spectranet/3174
+168,twitter,Airtel,9mobile coverage dead zone in my entire neighborhood useless,-0.3744,0.0,0.1497,0.2744,negative,2026-04-11,2026-04,2026-W14,18,https://example.com/airtel/3318
+45,twitter,MTN,airtel network coverage improved a lot in my area good job,0.3121,0.2145,0.4145,0.0,positive,2026-04-11,2026-04,2026-W14,11,https://example.com/mtn/1421
+1,twitter,MTN,worst customer service experience ever with glo never again,-0.4334,0.0,0.1951,0.3477,negative,2026-04-11,2026-04,2026-W14,1,https://example.com/mtn/9185
+466,twitter,9mobile,smile internet perfect for working from home no complaints,0.3171,0.3131,0.2829,0.0,positive,2026-04-11,2026-04,2026-W14,0,https://example.com/9mobile/3464
+20,news,MTN,mtn customer satisfaction scores hit five year high,0.4788,0.4283,0.1816,0.0,positive,2026-04-10,2026-04,2026-W14,22,https://example.com/mtn/9208
+645,twitter,Smile,airtel network coverage improved a lot in my area good job,0.3154,0.2736,0.1346,0.0,positive,2026-04-10,2026-04,2026-W14,22,https://example.com/smile/3517
+2,news,MTN,mtn outage affects thousands of customers in major cities,-0.1182,0.0,0.2504,0.0888,negative,2026-04-10,2026-04,2026-W14,15,https://example.com/mtn/6752
+265,twitter,Glo,worst customer service experience ever with glo never again,-0.6307,0.0,0.4998,0.6192,negative,2026-04-10,2026-04,2026-W14,15,https://example.com/glo/4751
+625,news,Smile,smile announces network upgrade scheduled maintenance period,-0.0296,0.0,0.3194,0.0278,neutral,2026-04-10,2026-04,2026-W14,12,https://example.com/smile/1275
+244,twitter,Glo,airtel data finished before it should have suspected billing fraud,-0.1076,0.0,0.4641,0.0714,negative,2026-04-10,2026-04,2026-W14,11,https://example.com/glo/1265
+259,twitter,Glo,mtn data prices unchanged this quarter,-0.0134,0.0,0.3663,0.0107,neutral,2026-04-10,2026-04,2026-W14,4,https://example.com/glo/4643
+287,news,Glo,glo outage affects thousands of customers in major cities,-0.4128,0.0,0.1209,0.3191,negative,2026-04-10,2026-04,2026-W14,1,https://example.com/glo/5330
+505,news,Spectranet,spectranet customer satisfaction scores hit five year high,0.317,0.268,0.1208,0.0,positive,2026-04-09,2026-04,2026-W14,22,https://example.com/spectranet/4728
+140,twitter,Airtel,airtel 5g speeds are incredible streaming without buffering,0.1569,0.0952,0.2136,0.0,positive,2026-04-09,2026-04,2026-W14,18,https://example.com/airtel/4107
+248,news,Glo,glo launches fibre broadband service fastest speeds in region,0.0555,0.0396,0.3746,0.0,positive,2026-04-09,2026-04,2026-W14,14,https://example.com/glo/7246
+364,news,9mobile,9mobile customer complaints up 35 percent in latest industry report,-0.2547,0.0,0.3721,0.2033,negative,2026-04-09,2026-04,2026-W14,9,https://example.com/9mobile/5768
+331,twitter,Glo,9mobile coverage dead zone in my entire neighborhood useless,-0.1532,0.0,0.385,0.1475,negative,2026-04-09,2026-04,2026-W14,3,https://example.com/glo/2573
+10,twitter,MTN,spectranet fibre connection never disappoints fast reliable,0.1311,0.1166,0.496,0.0,positive,2026-04-08,2026-04,2026-W14,14,https://example.com/mtn/3180
+399,news,9mobile,9mobile outage affects thousands of customers in major cities,-0.7125,0.0,0.3985,0.5754,negative,2026-04-08,2026-04,2026-W14,14,https://example.com/9mobile/7182
+374,news,9mobile,9mobile launches fibre broadband service fastest speeds in region,0.1828,0.1611,0.411,0.0,positive,2026-04-08,2026-04,2026-W14,8,https://example.com/9mobile/6519
+30,news,MTN,mtn outage affects thousands of customers in major cities,-0.1003,0.0,0.2302,0.0939,negative,2026-04-08,2026-04,2026-W14,8,https://example.com/mtn/7252
+404,twitter,9mobile,mtn customer service actually resolved my issue quickly impressed,0.1176,0.091,0.1906,0.0,positive,2026-04-08,2026-04,2026-W14,6,https://example.com/9mobile/9901
+513,twitter,Spectranet,just renewed my mtn data plan value for money as always,0.2633,0.2458,0.339,0.0,positive,2026-04-08,2026-04,2026-W14,1,https://example.com/spectranet/4644
+569,twitter,Spectranet,mtn network maintenance scheduled for sunday morning,-0.0391,0.0,0.3104,0.0251,neutral,2026-04-07,2026-04,2026-W14,22,https://example.com/spectranet/9406
+576,twitter,Spectranet,worst customer service experience ever with glo never again,-0.0811,0.0,0.1339,0.0749,negative,2026-04-07,2026-04,2026-W14,16,https://example.com/spectranet/6952
+547,twitter,Spectranet,9mobile and airtel merger talks what does it mean for customers,0.0114,0.0088,0.2656,0.0,neutral,2026-04-07,2026-04,2026-W14,16,https://example.com/spectranet/3334
+595,news,Spectranet,spectranet expands 4g lte coverage across 12 new states improves connectivity,0.3812,0.2735,0.1395,0.0,positive,2026-04-07,2026-04,2026-W14,15,https://example.com/spectranet/4958
+164,news,Airtel,airtel outage affects thousands of customers in major cities,-0.1177,0.0,0.2204,0.0735,negative,2026-04-07,2026-04,2026-W14,12,https://example.com/airtel/8187
+304,twitter,Glo,worst customer service experience ever with glo never again,-0.072,0.0,0.2635,0.047,negative,2026-04-07,2026-04,2026-W14,2,https://example.com/glo/4903
+305,twitter,Glo,mtn internet completely down for 3 hours terrible service,-0.1692,0.0,0.4128,0.1572,negative,2026-04-07,2026-04,2026-W14,0,https://example.com/glo/6483
+336,twitter,Glo,glo network coverage map updated for 2024,-0.0471,0.0,0.4062,0.0356,neutral,2026-04-07,2026-04,2026-W14,0,https://example.com/glo/7641
+598,twitter,Spectranet,spectranet fibre connection never disappoints fast reliable,0.0586,0.0449,0.1502,0.0,positive,2026-04-06,2026-04,2026-W14,22,https://example.com/spectranet/5667
+616,news,Smile,smile launches fibre broadband service fastest speeds in region,0.2447,0.1799,0.429,0.0,positive,2026-04-06,2026-04,2026-W14,21,https://example.com/smile/9500
+520,twitter,Spectranet,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.3532,0.0,0.1972,0.3108,negative,2026-04-06,2026-04,2026-W14,18,https://example.com/spectranet/2839
+225,news,Airtel,airtel outage affects thousands of customers in major cities,-0.4785,0.0,0.1075,0.3917,negative,2026-04-06,2026-04,2026-W14,16,https://example.com/airtel/5208
+212,twitter,Airtel,glo internet speed is embarrassingly slow cannot work from home,-0.0841,0.0,0.3702,0.0723,negative,2026-04-06,2026-04,2026-W14,16,https://example.com/airtel/8689
+72,twitter,MTN,smile internet perfect for working from home no complaints,0.306,0.2672,0.2899,0.0,positive,2026-04-06,2026-04,2026-W14,16,https://example.com/mtn/5990
+324,twitter,Glo,spectranet fibre connection never disappoints fast reliable,0.0579,0.0533,0.1712,0.0,positive,2026-04-06,2026-04,2026-W14,13,https://example.com/glo/3866
+216,news,Airtel,airtel cuts data prices by 20 percent for all subscribers,0.156,0.1451,0.4325,0.0,positive,2026-04-06,2026-04,2026-W14,12,https://example.com/airtel/8711
+308,twitter,Glo,worst customer service experience ever with glo never again,-0.2504,0.0,0.2603,0.1515,negative,2026-04-06,2026-04,2026-W14,7,https://example.com/glo/6393
+614,twitter,Smile,mtn internet speed has been great this week finally enjoying browsing,0.2929,0.2701,0.1325,0.0,positive,2026-04-06,2026-04,2026-W14,6,https://example.com/smile/2863
+387,news,9mobile,9mobile customer satisfaction scores hit five year high,0.4736,0.4553,0.1486,0.0,positive,2026-04-06,2026-04,2026-W14,5,https://example.com/9mobile/4338
+268,twitter,Glo,comparing mtn vs airtel data plans for monthly subscription,0.0165,0.0118,0.4823,0.0,neutral,2026-04-06,2026-04,2026-W14,3,https://example.com/glo/2846
+685,news,Smile,smile expands 4g lte coverage across 12 new states improves connectivity,0.2328,0.1586,0.2907,0.0,positive,2026-04-05,2026-04,2026-W13,13,https://example.com/smile/7609
+179,news,Airtel,airtel outage affects thousands of customers in major cities,-0.1813,0.0,0.3946,0.1196,negative,2026-04-05,2026-04,2026-W13,12,https://example.com/airtel/3469
+266,twitter,Glo,glo network always slow during peak hours so frustrating,-0.2748,0.0,0.2697,0.1801,negative,2026-04-05,2026-04,2026-W13,11,https://example.com/glo/4396
+215,twitter,Airtel,glo network always slow during peak hours so frustrating,-0.5641,0.0,0.1415,0.4786,negative,2026-04-05,2026-04,2026-W13,9,https://example.com/airtel/2341
+125,twitter,Airtel,mtn internet completely down for 3 hours terrible service,-0.4336,0.0,0.1291,0.3478,negative,2026-04-05,2026-04,2026-W13,7,https://example.com/airtel/8301
+542,twitter,Spectranet,mtn network maintenance scheduled for sunday morning,0.0429,0.0266,0.2782,0.0,neutral,2026-04-05,2026-04,2026-W13,7,https://example.com/spectranet/6380
+48,twitter,MTN,airtel 5g speeds are incredible streaming without buffering,0.2008,0.1875,0.3096,0.0,positive,2026-04-05,2026-04,2026-W13,3,https://example.com/mtn/9929
+514,twitter,Spectranet,airtel network coverage improved a lot in my area good job,0.0626,0.0379,0.1532,0.0,positive,2026-04-04,2026-04,2026-W13,21,https://example.com/spectranet/8938
+590,news,Spectranet,spectranet slapped with fine by ncc over quality of service violations,-0.2389,0.0,0.3335,0.2157,negative,2026-04-04,2026-04,2026-W13,14,https://example.com/spectranet/5263
+480,twitter,9mobile,comparing mtn vs airtel data plans for monthly subscription,-0.0329,0.0,0.3155,0.0264,neutral,2026-04-04,2026-04,2026-W13,14,https://example.com/9mobile/5334
+383,news,9mobile,9mobile outage affects thousands of customers in major cities,-0.059,0.0,0.1325,0.0432,negative,2026-04-04,2026-04,2026-W13,10,https://example.com/9mobile/7588
+232,twitter,Airtel,mtn data prices unchanged this quarter,0.0186,0.0161,0.1952,0.0,neutral,2026-04-04,2026-04,2026-W13,9,https://example.com/airtel/9306
+76,twitter,MTN,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.2395,0.0,0.3621,0.1462,negative,2026-04-04,2026-04,2026-W13,9,https://example.com/mtn/2498
+495,twitter,Spectranet,9mobile coverage dead zone in my entire neighborhood useless,-0.1992,0.0,0.1017,0.1325,negative,2026-04-04,2026-04,2026-W13,8,https://example.com/spectranet/2483
+323,twitter,Glo,glo network always slow during peak hours so frustrating,-0.4617,0.0,0.1988,0.4042,negative,2026-04-04,2026-04,2026-W13,5,https://example.com/glo/3723
+243,twitter,Glo,spectranet fibre connection never disappoints fast reliable,0.3662,0.2225,0.1973,0.0,positive,2026-04-04,2026-04,2026-W13,3,https://example.com/glo/7526
+282,news,Glo,glo slapped with fine by ncc over quality of service violations,-0.233,0.0,0.3543,0.1831,negative,2026-04-04,2026-04,2026-W13,2,https://example.com/glo/5378
+22,twitter,MTN,airtel 5g speeds are incredible streaming without buffering,0.8777,0.7179,0.3186,0.0,positive,2026-04-03,2026-04,2026-W13,21,https://example.com/mtn/9099
+334,news,Glo,glo customer complaints up 35 percent in latest industry report,-0.3279,0.0,0.3026,0.2631,negative,2026-04-03,2026-04,2026-W13,16,https://example.com/glo/8004
+555,twitter,Spectranet,spectranet fibre connection never disappoints fast reliable,0.898,0.7702,0.286,0.0,positive,2026-04-03,2026-04,2026-W13,12,https://example.com/spectranet/4284
+392,twitter,9mobile,glo internet disconnects every few minutes how is this acceptable,-0.2021,0.0,0.2159,0.1419,negative,2026-04-03,2026-04,2026-W13,9,https://example.com/9mobile/3341
+706,twitter,Smile,glo network always slow during peak hours so frustrating,-0.2256,0.0,0.2083,0.1401,negative,2026-04-03,2026-04,2026-W13,3,https://example.com/smile/1728
+240,twitter,Airtel,spectranet fibre connection never disappoints fast reliable,0.1546,0.1479,0.4898,0.0,positive,2026-04-02,2026-04,2026-W13,20,https://example.com/airtel/6647
+27,twitter,MTN,airtel 5g speeds are incredible streaming without buffering,0.2625,0.1937,0.2324,0.0,positive,2026-04-02,2026-04,2026-W13,18,https://example.com/mtn/3186
+302,twitter,Glo,worst customer service experience ever with glo never again,-1.0,0.0,0.1879,0.7145,negative,2026-04-02,2026-04,2026-W13,16,https://example.com/glo/3616
+501,news,Spectranet,spectranet slapped with fine by ncc over quality of service violations,-0.0936,0.0,0.3354,0.0586,negative,2026-04-02,2026-04,2026-W13,15,https://example.com/spectranet/1624
+430,news,9mobile,9mobile customer complaints up 35 percent in latest industry report,-0.1814,0.0,0.1509,0.1709,negative,2026-04-02,2026-04,2026-W13,10,https://example.com/9mobile/1720
+588,twitter,Spectranet,mtn customer service actually resolved my issue quickly impressed,0.7647,0.5772,0.481,0.0,positive,2026-04-02,2026-04,2026-W13,1,https://example.com/spectranet/9101
+654,news,Smile,smile wins best telecom provider award customer satisfaction survey,0.273,0.2347,0.4319,0.0,positive,2026-04-01,2026-04,2026-W13,15,https://example.com/smile/7566
+428,news,9mobile,9mobile signs partnership deal with international telecom provider,0.0318,0.0295,0.2202,0.0,neutral,2026-04-01,2026-04,2026-W13,12,https://example.com/9mobile/9196
+121,twitter,Airtel,comparing mtn vs airtel data plans for monthly subscription,0.0218,0.0218,0.1749,0.0,neutral,2026-04-01,2026-04,2026-W13,10,https://example.com/airtel/9609
+117,twitter,MTN,spectranet fibre connection never disappoints fast reliable,0.4496,0.3788,0.1659,0.0,positive,2026-03-31,2026-03,2026-W13,23,https://example.com/mtn/4574
+78,news,MTN,mtn wins best telecom provider award customer satisfaction survey,0.2015,0.1848,0.2986,0.0,positive,2026-03-31,2026-03,2026-W13,23,https://example.com/mtn/8417
+274,twitter,Glo,mtn internet speed has been great this week finally enjoying browsing,0.3881,0.2937,0.2556,0.0,positive,2026-03-31,2026-03,2026-W13,19,https://example.com/glo/1945
+559,twitter,Spectranet,glo network always slow during peak hours so frustrating,-0.1279,0.0,0.1081,0.0853,negative,2026-03-31,2026-03,2026-W13,17,https://example.com/spectranet/3581
+257,twitter,Glo,airtel 5g speeds are incredible streaming without buffering,0.5224,0.3753,0.3731,0.0,positive,2026-03-31,2026-03,2026-W13,16,https://example.com/glo/7333
+325,news,Glo,glo customer satisfaction scores hit five year high,0.5615,0.5281,0.2407,0.0,positive,2026-03-31,2026-03,2026-W13,13,https://example.com/glo/7328
+21,twitter,MTN,glo internet disconnects every few minutes how is this acceptable,-0.2862,0.0,0.4398,0.2456,negative,2026-03-31,2026-03,2026-W13,6,https://example.com/mtn/6946
+7,twitter,MTN,mtn internet speed has been great this week finally enjoying browsing,0.2215,0.1946,0.2634,0.0,positive,2026-03-31,2026-03,2026-W13,2,https://example.com/mtn/1924
+532,news,Spectranet,spectranet cuts data prices by 20 percent for all subscribers,0.187,0.1297,0.3878,0.0,positive,2026-03-30,2026-03,2026-W13,20,https://example.com/spectranet/7727
+394,twitter,9mobile,anyone know the best isp in lagos for home internet,-0.0488,0.0,0.3417,0.0404,neutral,2026-03-30,2026-03,2026-W13,19,https://example.com/9mobile/7790
+256,twitter,Glo,mtn customer service actually resolved my issue quickly impressed,0.3135,0.2166,0.3263,0.0,positive,2026-03-30,2026-03,2026-W13,17,https://example.com/glo/9270
+77,twitter,MTN,airtel data finished before it should have suspected billing fraud,-0.2303,0.0,0.1993,0.2154,negative,2026-03-30,2026-03,2026-W13,15,https://example.com/mtn/2218
+347,twitter,Glo,spectranet fibre connection never disappoints fast reliable,0.354,0.2608,0.3069,0.0,positive,2026-03-30,2026-03,2026-W13,9,https://example.com/glo/9761
+167,news,Airtel,airtel expands 4g lte coverage across 12 new states improves connectivity,0.2081,0.1323,0.1097,0.0,positive,2026-03-30,2026-03,2026-W13,3,https://example.com/airtel/8350
+593,twitter,Spectranet,just renewed my mtn data plan value for money as always,0.4765,0.3461,0.4825,0.0,positive,2026-03-30,2026-03,2026-W13,3,https://example.com/spectranet/1921
+531,twitter,Spectranet,mtn customer service actually resolved my issue quickly impressed,0.5188,0.4275,0.3912,0.0,positive,2026-03-30,2026-03,2026-W13,0,https://example.com/spectranet/2991
+135,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.4219,0.2667,0.333,0.0,positive,2026-03-29,2026-03,2026-W12,21,https://example.com/airtel/4645
+160,news,Airtel,airtel launches fibre broadband service fastest speeds in region,0.2893,0.217,0.1248,0.0,positive,2026-03-29,2026-03,2026-W12,12,https://example.com/airtel/4321
+157,news,Airtel,airtel launches fibre broadband service fastest speeds in region,0.2244,0.1894,0.1068,0.0,positive,2026-03-29,2026-03,2026-W12,10,https://example.com/airtel/9095
+638,news,Smile,smile customer satisfaction scores hit five year high,0.4389,0.2921,0.4448,0.0,positive,2026-03-29,2026-03,2026-W12,5,https://example.com/smile/9250
+433,twitter,9mobile,worst customer service experience ever with glo never again,-0.3577,0.0,0.3776,0.3547,negative,2026-03-29,2026-03,2026-W12,1,https://example.com/9mobile/4136
+261,twitter,Glo,mtn internet speed has been great this week finally enjoying browsing,0.0632,0.0443,0.3464,0.0,positive,2026-03-28,2026-03,2026-W12,21,https://example.com/glo/1892
+568,twitter,Spectranet,smile internet perfect for working from home no complaints,0.4193,0.3395,0.1961,0.0,positive,2026-03-28,2026-03,2026-W12,16,https://example.com/spectranet/9931
+156,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.2979,0.2525,0.3946,0.0,positive,2026-03-28,2026-03,2026-W12,16,https://example.com/airtel/6986
+530,twitter,Spectranet,mtn data prices unchanged this quarter,-0.0108,0.0,0.4698,0.0066,neutral,2026-03-28,2026-03,2026-W12,15,https://example.com/spectranet/5880
+369,twitter,9mobile,airtel data finished before it should have suspected billing fraud,-0.2021,0.0,0.2225,0.1815,negative,2026-03-28,2026-03,2026-W12,15,https://example.com/9mobile/4077
+454,twitter,9mobile,mtn internet completely down for 3 hours terrible service,-0.3503,0.0,0.3954,0.2559,negative,2026-03-28,2026-03,2026-W12,14,https://example.com/9mobile/9007
+366,news,9mobile,9mobile network reliability drops amid infrastructure challenges,-0.4232,0.0,0.2444,0.3774,negative,2026-03-28,2026-03,2026-W12,13,https://example.com/9mobile/8371
+416,twitter,9mobile,airtel data finished before it should have suspected billing fraud,-0.2973,0.0,0.4191,0.2471,negative,2026-03-27,2026-03,2026-W12,23,https://example.com/9mobile/5353
+284,twitter,Glo,airtel data plan worth every naira excellent network coverage,0.2366,0.1651,0.4099,0.0,positive,2026-03-27,2026-03,2026-W12,23,https://example.com/glo/6921
+716,twitter,Smile,glo network always slow during peak hours so frustrating,-0.2738,0.0,0.3721,0.263,negative,2026-03-27,2026-03,2026-W12,18,https://example.com/smile/6690
+98,twitter,MTN,airtel keeps throttling my connection after half my data is used,-0.17,0.0,0.2848,0.1422,negative,2026-03-27,2026-03,2026-W12,11,https://example.com/mtn/4630
+463,twitter,9mobile,worst customer service experience ever with glo never again,-0.4107,0.0,0.3945,0.3736,negative,2026-03-27,2026-03,2026-W12,10,https://example.com/9mobile/2555
+674,twitter,Smile,airtel 5g speeds are incredible streaming without buffering,0.1542,0.1403,0.3134,0.0,positive,2026-03-27,2026-03,2026-W12,9,https://example.com/smile/6647
+192,twitter,Airtel,smile internet perfect for working from home no complaints,0.3894,0.2572,0.1547,0.0,positive,2026-03-27,2026-03,2026-W12,6,https://example.com/airtel/7634
+630,twitter,Smile,spectranet fibre connection never disappoints fast reliable,0.18,0.1307,0.1475,0.0,positive,2026-03-27,2026-03,2026-W12,6,https://example.com/smile/1105
+343,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.0559,0.0,0.3885,0.0402,negative,2026-03-27,2026-03,2026-W12,3,https://example.com/glo/2503
+328,twitter,Glo,mtn internet speed has been great this week finally enjoying browsing,0.1146,0.0872,0.4971,0.0,positive,2026-03-27,2026-03,2026-W12,2,https://example.com/glo/7828
+584,twitter,Spectranet,9mobile coverage dead zone in my entire neighborhood useless,-0.5328,0.0,0.4232,0.4984,negative,2026-03-26,2026-03,2026-W12,17,https://example.com/spectranet/8615
+260,news,Glo,glo customer complaints up 35 percent in latest industry report,-0.414,0.0,0.4512,0.4015,negative,2026-03-26,2026-03,2026-W12,16,https://example.com/glo/9227
+19,twitter,MTN,mtn data prices unchanged this quarter,0.0437,0.0299,0.103,0.0,neutral,2026-03-26,2026-03,2026-W12,15,https://example.com/mtn/4180
+566,twitter,Spectranet,smile internet perfect for working from home no complaints,0.1636,0.1468,0.3806,0.0,positive,2026-03-26,2026-03,2026-W12,15,https://example.com/spectranet/3615
+133,twitter,Airtel,smile internet perfect for working from home no complaints,0.2904,0.2761,0.4969,0.0,positive,2026-03-26,2026-03,2026-W12,14,https://example.com/airtel/7604
+477,twitter,9mobile,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.9861,0.0,0.3419,0.6051,negative,2026-03-26,2026-03,2026-W12,13,https://example.com/9mobile/3227
+443,twitter,9mobile,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.486,0.0,0.2724,0.3679,negative,2026-03-26,2026-03,2026-W12,7,https://example.com/9mobile/6488
+410,twitter,9mobile,mtn network congestion every evening ruins my streaming experience,-0.6061,0.0,0.1182,0.3985,negative,2026-03-26,2026-03,2026-W12,0,https://example.com/9mobile/6186
+695,twitter,Smile,9mobile and airtel merger talks what does it mean for customers,-0.0388,0.0,0.4118,0.0233,neutral,2026-03-25,2026-03,2026-W12,20,https://example.com/smile/8538
+149,twitter,Airtel,airtel data plan worth every naira excellent network coverage,0.4587,0.3312,0.2169,0.0,positive,2026-03-25,2026-03,2026-W12,19,https://example.com/airtel/2901
+506,twitter,Spectranet,airtel network coverage improved a lot in my area good job,0.2025,0.1434,0.2434,0.0,positive,2026-03-25,2026-03,2026-W12,18,https://example.com/spectranet/6013
+131,twitter,Airtel,glo network always slow during peak hours so frustrating,-0.2144,0.0,0.1628,0.1816,negative,2026-03-25,2026-03,2026-W12,16,https://example.com/airtel/9922
+136,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.1732,0.1285,0.1589,0.0,positive,2026-03-25,2026-03,2026-W12,15,https://example.com/airtel/7043
+313,news,Glo,glo outage affects thousands of customers in major cities,-0.1486,0.0,0.3791,0.1265,negative,2026-03-25,2026-03,2026-W12,11,https://example.com/glo/2226
+549,twitter,Spectranet,spectranet fibre connection never disappoints fast reliable,0.3105,0.2144,0.3237,0.0,positive,2026-03-25,2026-03,2026-W12,5,https://example.com/spectranet/4885
+231,twitter,Airtel,smile internet perfect for working from home no complaints,0.6571,0.5641,0.3731,0.0,positive,2026-03-25,2026-03,2026-W12,4,https://example.com/airtel/7554
+636,twitter,Smile,mtn internet speed has been great this week finally enjoying browsing,0.4997,0.3296,0.4366,0.0,positive,2026-03-25,2026-03,2026-W12,1,https://example.com/smile/1758
+521,news,Spectranet,spectranet signs partnership deal with international telecom provider,-0.0471,0.0,0.4862,0.0433,neutral,2026-03-25,2026-03,2026-W12,0,https://example.com/spectranet/4370
+194,twitter,Airtel,airtel keeps throttling my connection after half my data is used,-0.4356,0.0,0.4029,0.3198,negative,2026-03-24,2026-03,2026-W12,18,https://example.com/airtel/3789
+714,news,Smile,smile wins best telecom provider award customer satisfaction survey,0.0606,0.0369,0.2942,0.0,positive,2026-03-24,2026-03,2026-W12,18,https://example.com/smile/9505
+683,news,Smile,smile expands 4g lte coverage across 12 new states improves connectivity,0.2831,0.1823,0.2843,0.0,positive,2026-03-24,2026-03,2026-W12,14,https://example.com/smile/6425
+264,twitter,Glo,airtel data plan worth every naira excellent network coverage,0.2685,0.1893,0.1366,0.0,positive,2026-03-24,2026-03,2026-W12,14,https://example.com/glo/1725
+132,news,Airtel,airtel customer complaints up 35 percent in latest industry report,-0.2006,0.0,0.2633,0.1248,negative,2026-03-24,2026-03,2026-W12,14,https://example.com/airtel/7563
+285,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.3387,0.0,0.1859,0.2648,negative,2026-03-23,2026-03,2026-W12,16,https://example.com/glo/3304
+3,twitter,MTN,airtel network coverage improved a lot in my area good job,0.3739,0.3098,0.1443,0.0,positive,2026-03-23,2026-03,2026-W12,15,https://example.com/mtn/6771
+472,news,9mobile,9mobile customer complaints up 35 percent in latest industry report,-0.0944,0.0,0.3415,0.0583,negative,2026-03-23,2026-03,2026-W12,11,https://example.com/9mobile/9581
+110,news,MTN,mtn cuts data prices by 20 percent for all subscribers,0.2002,0.1552,0.443,0.0,positive,2026-03-23,2026-03,2026-W12,9,https://example.com/mtn/2444
+307,news,Glo,glo outage affects thousands of customers in major cities,-0.226,0.0,0.3841,0.2225,negative,2026-03-23,2026-03,2026-W12,7,https://example.com/glo/8346
+210,news,Airtel,airtel expands 4g lte coverage across 12 new states improves connectivity,0.3904,0.2624,0.2693,0.0,positive,2026-03-22,2026-03,2026-W11,23,https://example.com/airtel/5709
+120,news,MTN,mtn faces backlash over unexpected data depletion complaints surge,-0.3627,0.0,0.1988,0.2284,negative,2026-03-22,2026-03,2026-W11,23,https://example.com/mtn/8877
+36,news,MTN,mtn slapped with fine by ncc over quality of service violations,-0.7234,0.0,0.3745,0.4902,negative,2026-03-22,2026-03,2026-W11,22,https://example.com/mtn/8435
+622,twitter,Smile,airtel data finished before it should have suspected billing fraud,-0.5328,0.0,0.1243,0.3641,negative,2026-03-22,2026-03,2026-W11,21,https://example.com/smile/1642
+427,twitter,9mobile,spectranet fibre connection never disappoints fast reliable,0.5774,0.4486,0.3539,0.0,positive,2026-03-22,2026-03,2026-W11,18,https://example.com/9mobile/6300
+528,news,Spectranet,spectranet wins best telecom provider award customer satisfaction survey,0.2629,0.1582,0.1773,0.0,positive,2026-03-22,2026-03,2026-W11,18,https://example.com/spectranet/6807
+563,twitter,Spectranet,smile internet perfect for working from home no complaints,0.2032,0.1289,0.2932,0.0,positive,2026-03-22,2026-03,2026-W11,18,https://example.com/spectranet/9215
+355,news,Glo,glo cuts data prices by 20 percent for all subscribers,0.4368,0.278,0.4068,0.0,positive,2026-03-22,2026-03,2026-W11,17,https://example.com/glo/7265
+591,twitter,Spectranet,airtel data plan worth every naira excellent network coverage,0.1783,0.1399,0.4214,0.0,positive,2026-03-22,2026-03,2026-W11,14,https://example.com/spectranet/7708
+70,twitter,MTN,smile internet perfect for working from home no complaints,0.6011,0.5023,0.1806,0.0,positive,2026-03-22,2026-03,2026-W11,8,https://example.com/mtn/1122
+408,twitter,9mobile,glo network always slow during peak hours so frustrating,-0.501,0.0,0.4906,0.3286,negative,2026-03-22,2026-03,2026-W11,2,https://example.com/9mobile/8379
+565,news,Spectranet,spectranet launches fibre broadband service fastest speeds in region,0.3155,0.2604,0.3257,0.0,positive,2026-03-22,2026-03,2026-W11,0,https://example.com/spectranet/9458
+380,news,9mobile,9mobile customer complaints up 35 percent in latest industry report,-1.0,0.0,0.3071,0.9584,negative,2026-03-21,2026-03,2026-W11,22,https://example.com/9mobile/7580
+373,twitter,9mobile,mtn customer service actually resolved my issue quickly impressed,0.1112,0.0741,0.4955,0.0,positive,2026-03-21,2026-03,2026-W11,12,https://example.com/9mobile/5385
+411,news,9mobile,9mobile cuts data prices by 20 percent for all subscribers,0.3499,0.2138,0.4204,0.0,positive,2026-03-21,2026-03,2026-W11,10,https://example.com/9mobile/2143
+490,twitter,Spectranet,9mobile coverage dead zone in my entire neighborhood useless,-0.0866,0.0,0.3503,0.0542,negative,2026-03-21,2026-03,2026-W11,9,https://example.com/spectranet/4277
+123,twitter,Airtel,9mobile coverage dead zone in my entire neighborhood useless,-0.2317,0.0,0.4475,0.1634,negative,2026-03-21,2026-03,2026-W11,9,https://example.com/airtel/4745
+651,news,Smile,smile launches fibre broadband service fastest speeds in region,0.4216,0.3657,0.1853,0.0,positive,2026-03-21,2026-03,2026-W11,9,https://example.com/smile/2365
+623,twitter,Smile,airtel data plan worth every naira excellent network coverage,0.2814,0.2536,0.2821,0.0,positive,2026-03-21,2026-03,2026-W11,8,https://example.com/smile/7682
+253,twitter,Glo,anyone know the best isp in lagos for home internet,-0.0215,0.0,0.1232,0.0173,neutral,2026-03-21,2026-03,2026-W11,3,https://example.com/glo/2030
+552,news,Spectranet,spectranet launches fibre broadband service fastest speeds in region,0.3336,0.2134,0.2604,0.0,positive,2026-03-21,2026-03,2026-W11,3,https://example.com/spectranet/5885
+181,twitter,Airtel,mtn internet speed has been great this week finally enjoying browsing,0.2204,0.15,0.3692,0.0,positive,2026-03-21,2026-03,2026-W11,3,https://example.com/airtel/6527
+345,twitter,Glo,mtn internet speed has been great this week finally enjoying browsing,0.1235,0.1153,0.2449,0.0,positive,2026-03-21,2026-03,2026-W11,3,https://example.com/glo/7503
+61,news,MTN,mtn slapped with fine by ncc over quality of service violations,-0.2822,0.0,0.3662,0.2578,negative,2026-03-21,2026-03,2026-W11,2,https://example.com/mtn/3094
+537,twitter,Spectranet,anyone know the best isp in lagos for home internet,0.0141,0.0092,0.1418,0.0,neutral,2026-03-21,2026-03,2026-W11,2,https://example.com/spectranet/3701
+229,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.3702,0.3489,0.1512,0.0,positive,2026-03-21,2026-03,2026-W11,1,https://example.com/airtel/3634
+656,news,Smile,smile customer complaints up 35 percent in latest industry report,-0.2986,0.0,0.4386,0.2014,negative,2026-03-21,2026-03,2026-W11,0,https://example.com/smile/3887
+395,twitter,9mobile,glo network always slow during peak hours so frustrating,-0.3543,0.0,0.4505,0.246,negative,2026-03-20,2026-03,2026-W11,23,https://example.com/9mobile/9940
+637,news,Smile,smile outage affects thousands of customers in major cities,-0.0733,0.0,0.3562,0.0624,negative,2026-03-20,2026-03,2026-W11,22,https://example.com/smile/6284
+420,twitter,9mobile,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.2359,0.0,0.2355,0.1418,negative,2026-03-20,2026-03,2026-W11,17,https://example.com/9mobile/1600
+73,twitter,MTN,mtn internet speed has been great this week finally enjoying browsing,0.2008,0.1694,0.4852,0.0,positive,2026-03-20,2026-03,2026-W11,16,https://example.com/mtn/1068
+151,news,Airtel,airtel faces backlash over unexpected data depletion complaints surge,-0.2988,0.0,0.1828,0.2737,negative,2026-03-20,2026-03,2026-W11,16,https://example.com/airtel/3496
+109,news,MTN,mtn customer satisfaction scores hit five year high,0.2182,0.2034,0.1168,0.0,positive,2026-03-20,2026-03,2026-W11,15,https://example.com/mtn/8099
+104,news,MTN,mtn cuts data prices by 20 percent for all subscribers,0.1093,0.1011,0.2751,0.0,positive,2026-03-20,2026-03,2026-W11,13,https://example.com/mtn/2038
+108,twitter,MTN,smile internet perfect for working from home no complaints,0.4999,0.44,0.2943,0.0,positive,2026-03-20,2026-03,2026-W11,10,https://example.com/mtn/4483
+350,news,Glo,glo customer complaints up 35 percent in latest industry report,-0.3751,0.0,0.1479,0.3551,negative,2026-03-20,2026-03,2026-W11,8,https://example.com/glo/1710
+523,news,Spectranet,spectranet cuts data prices by 20 percent for all subscribers,0.1417,0.0934,0.2912,0.0,positive,2026-03-20,2026-03,2026-W11,8,https://example.com/spectranet/9317
+163,news,Airtel,airtel network reliability drops amid infrastructure challenges,-0.6112,0.0,0.4353,0.3879,negative,2026-03-20,2026-03,2026-W11,6,https://example.com/airtel/7920
+356,twitter,Glo,mtn customer service actually resolved my issue quickly impressed,0.1819,0.1118,0.1816,0.0,positive,2026-03-20,2026-03,2026-W11,5,https://example.com/glo/1227
+642,news,Smile,smile outage affects thousands of customers in major cities,-0.1683,0.0,0.3089,0.1344,negative,2026-03-19,2026-03,2026-W11,21,https://example.com/smile/4924
+34,twitter,MTN,glo network always slow during peak hours so frustrating,-0.6051,0.0,0.278,0.5591,negative,2026-03-19,2026-03,2026-W11,16,https://example.com/mtn/3575
+87,news,MTN,mtn launches fibre broadband service fastest speeds in region,0.2533,0.2089,0.2951,0.0,positive,2026-03-19,2026-03,2026-W11,13,https://example.com/mtn/6994
+418,twitter,9mobile,anyone know the best isp in lagos for home internet,-0.0329,0.0,0.1432,0.0329,neutral,2026-03-19,2026-03,2026-W11,10,https://example.com/9mobile/2948
+208,news,Airtel,airtel customer complaints up 35 percent in latest industry report,-0.3582,0.0,0.1433,0.2999,negative,2026-03-19,2026-03,2026-W11,8,https://example.com/airtel/6947
+26,twitter,MTN,spectranet fibre connection never disappoints fast reliable,0.2751,0.171,0.2712,0.0,positive,2026-03-19,2026-03,2026-W11,5,https://example.com/mtn/7939
+570,twitter,Spectranet,airtel data plan worth every naira excellent network coverage,0.3504,0.2855,0.1479,0.0,positive,2026-03-19,2026-03,2026-W11,3,https://example.com/spectranet/4231
+197,twitter,Airtel,9mobile and airtel merger talks what does it mean for customers,0.0239,0.0224,0.2547,0.0,neutral,2026-03-19,2026-03,2026-W11,1,https://example.com/airtel/9195
+709,news,Smile,smile slapped with fine by ncc over quality of service violations,-0.0784,0.0,0.4552,0.0572,negative,2026-03-18,2026-03,2026-W11,20,https://example.com/smile/8989
+435,twitter,9mobile,airtel keeps throttling my connection after half my data is used,-0.3124,0.0,0.1761,0.2713,negative,2026-03-18,2026-03,2026-W11,20,https://example.com/9mobile/6651
+414,twitter,9mobile,airtel network coverage improved a lot in my area good job,0.2444,0.1854,0.2314,0.0,positive,2026-03-18,2026-03,2026-W11,19,https://example.com/9mobile/9728
+581,twitter,Spectranet,airtel 5g speeds are incredible streaming without buffering,0.1786,0.1506,0.4206,0.0,positive,2026-03-18,2026-03,2026-W11,17,https://example.com/spectranet/5760
+53,news,MTN,mtn customer satisfaction scores hit five year high,0.4685,0.4154,0.1991,0.0,positive,2026-03-18,2026-03,2026-W11,15,https://example.com/mtn/6414
+115,twitter,MTN,mtn internet speed has been great this week finally enjoying browsing,0.7281,0.5065,0.3305,0.0,positive,2026-03-18,2026-03,2026-W11,5,https://example.com/mtn/8076
+396,twitter,9mobile,airtel keeps throttling my connection after half my data is used,-1.0,0.0,0.1833,0.7437,negative,2026-03-17,2026-03,2026-W11,22,https://example.com/9mobile/8707
+102,twitter,MTN,9mobile and airtel merger talks what does it mean for customers,0.0421,0.0297,0.1449,0.0,neutral,2026-03-17,2026-03,2026-W11,20,https://example.com/mtn/8532
+352,news,Glo,glo customer satisfaction scores hit five year high,0.6615,0.644,0.1984,0.0,positive,2026-03-17,2026-03,2026-W11,16,https://example.com/glo/2946
+68,twitter,MTN,smile internet perfect for working from home no complaints,0.7446,0.5371,0.3226,0.0,positive,2026-03-17,2026-03,2026-W11,12,https://example.com/mtn/5084
+368,news,9mobile,9mobile launches fibre broadband service fastest speeds in region,0.2608,0.1583,0.2172,0.0,positive,2026-03-17,2026-03,2026-W11,10,https://example.com/9mobile/6711
+319,news,Glo,glo network reliability drops amid infrastructure challenges,-0.1671,0.0,0.4777,0.1172,negative,2026-03-17,2026-03,2026-W11,9,https://example.com/glo/1648
+315,news,Glo,glo wins best telecom provider award customer satisfaction survey,0.5778,0.5086,0.4528,0.0,positive,2026-03-17,2026-03,2026-W11,8,https://example.com/glo/3314
+220,twitter,Airtel,airtel 5g speeds are incredible streaming without buffering,0.2339,0.1672,0.2433,0.0,positive,2026-03-17,2026-03,2026-W11,4,https://example.com/airtel/1571
+586,news,Spectranet,spectranet customer satisfaction scores hit five year high,0.2553,0.183,0.1026,0.0,positive,2026-03-17,2026-03,2026-W11,0,https://example.com/spectranet/1499
+177,news,Airtel,airtel cuts data prices by 20 percent for all subscribers,0.5961,0.5443,0.3376,0.0,positive,2026-03-16,2026-03,2026-W11,23,https://example.com/airtel/3280
+371,twitter,9mobile,mtn internet speed has been great this week finally enjoying browsing,0.0738,0.0494,0.1608,0.0,positive,2026-03-16,2026-03,2026-W11,21,https://example.com/9mobile/2885
+5,twitter,MTN,smile internet perfect for working from home no complaints,0.1194,0.0894,0.3478,0.0,positive,2026-03-16,2026-03,2026-W11,20,https://example.com/mtn/6262
+526,twitter,Spectranet,smile internet perfect for working from home no complaints,0.3231,0.2073,0.2442,0.0,positive,2026-03-16,2026-03,2026-W11,19,https://example.com/spectranet/8457
+498,twitter,Spectranet,mtn customer service actually resolved my issue quickly impressed,0.1146,0.1067,0.4666,0.0,positive,2026-03-16,2026-03,2026-W11,14,https://example.com/spectranet/1498
+299,twitter,Glo,9mobile coverage dead zone in my entire neighborhood useless,-0.0811,0.0,0.4068,0.055,negative,2026-03-16,2026-03,2026-W11,13,https://example.com/glo/6027
+668,news,Smile,smile customer complaints up 35 percent in latest industry report,-0.5256,0.0,0.428,0.4446,negative,2026-03-16,2026-03,2026-W11,12,https://example.com/smile/3545
+146,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.074,0.049,0.2318,0.0,positive,2026-03-16,2026-03,2026-W11,11,https://example.com/airtel/9538
+489,twitter,Spectranet,spectranet fibre connection never disappoints fast reliable,0.3716,0.2311,0.358,0.0,positive,2026-03-16,2026-03,2026-W11,10,https://example.com/spectranet/1675
+567,twitter,Spectranet,anyone know the best isp in lagos for home internet,-0.0289,0.0,0.3202,0.0182,neutral,2026-03-16,2026-03,2026-W11,9,https://example.com/spectranet/7519
+155,twitter,Airtel,mtn internet completely down for 3 hours terrible service,-0.1577,0.0,0.1458,0.1117,negative,2026-03-16,2026-03,2026-W11,8,https://example.com/airtel/9802
+431,news,9mobile,9mobile wins best telecom provider award customer satisfaction survey,0.202,0.1284,0.2231,0.0,positive,2026-03-15,2026-03,2026-W10,22,https://example.com/9mobile/6518
+582,twitter,Spectranet,airtel network coverage improved a lot in my area good job,0.3762,0.2496,0.2345,0.0,positive,2026-03-15,2026-03,2026-W10,16,https://example.com/spectranet/1766
+479,news,9mobile,9mobile customer complaints up 35 percent in latest industry report,-0.3027,0.0,0.463,0.1885,negative,2026-03-15,2026-03,2026-W10,15,https://example.com/9mobile/5176
+689,news,Smile,smile cuts data prices by 20 percent for all subscribers,0.157,0.1254,0.1338,0.0,positive,2026-03-15,2026-03,2026-W10,13,https://example.com/smile/9790
+573,twitter,Spectranet,comparing mtn vs airtel data plans for monthly subscription,-0.027,0.0,0.196,0.023,neutral,2026-03-15,2026-03,2026-W10,12,https://example.com/spectranet/9327
+340,twitter,Glo,airtel 5g speeds are incredible streaming without buffering,0.3296,0.3268,0.26,0.0,positive,2026-03-15,2026-03,2026-W10,0,https://example.com/glo/8272
+159,twitter,Airtel,airtel network coverage improved a lot in my area good job,0.2055,0.1825,0.3513,0.0,positive,2026-03-15,2026-03,2026-W10,0,https://example.com/airtel/4755
+713,news,Smile,smile customer satisfaction scores hit five year high,0.53,0.4555,0.4859,0.0,positive,2026-03-14,2026-03,2026-W10,23,https://example.com/smile/8431
+41,twitter,MTN,9mobile coverage dead zone in my entire neighborhood useless,-0.21,0.0,0.2447,0.1771,negative,2026-03-14,2026-03,2026-W10,22,https://example.com/mtn/4381
+693,twitter,Smile,airtel data plan worth every naira excellent network coverage,0.1288,0.1263,0.3152,0.0,positive,2026-03-14,2026-03,2026-W10,16,https://example.com/smile/5828
+626,twitter,Smile,comparing mtn vs airtel data plans for monthly subscription,-0.0418,0.0,0.2251,0.0314,neutral,2026-03-14,2026-03,2026-W10,15,https://example.com/smile/7437
+605,twitter,Smile,spectranet fibre connection never disappoints fast reliable,0.435,0.3779,0.4252,0.0,positive,2026-03-14,2026-03,2026-W10,10,https://example.com/smile/4561
+592,twitter,Spectranet,mtn internet speed has been great this week finally enjoying browsing,0.3832,0.2917,0.2251,0.0,positive,2026-03-14,2026-03,2026-W10,2,https://example.com/spectranet/8260
+398,news,9mobile,9mobile launches fibre broadband service fastest speeds in region,0.294,0.2903,0.3623,0.0,positive,2026-03-14,2026-03,2026-W10,2,https://example.com/9mobile/4176
+469,twitter,9mobile,spectranet vs smile which is better for small business,0.0269,0.0253,0.424,0.0,neutral,2026-03-13,2026-03,2026-W10,23,https://example.com/9mobile/2233
+624,twitter,Smile,glo network always slow during peak hours so frustrating,-0.0673,0.0,0.2682,0.0547,negative,2026-03-13,2026-03,2026-W10,18,https://example.com/smile/5120
+239,twitter,Airtel,airtel 5g speeds are incredible streaming without buffering,0.201,0.1494,0.4122,0.0,positive,2026-03-13,2026-03,2026-W10,17,https://example.com/airtel/5904
+329,twitter,Glo,spectranet fibre connection never disappoints fast reliable,0.239,0.2224,0.4231,0.0,positive,2026-03-13,2026-03,2026-W10,17,https://example.com/glo/5249
+25,twitter,MTN,mtn internet speed has been great this week finally enjoying browsing,0.3859,0.2872,0.4378,0.0,positive,2026-03-13,2026-03,2026-W10,17,https://example.com/mtn/4491
+464,twitter,9mobile,airtel data finished before it should have suspected billing fraud,-0.222,0.0,0.3248,0.1458,negative,2026-03-13,2026-03,2026-W10,14,https://example.com/9mobile/2032
+375,twitter,9mobile,glo internet disconnects every few minutes how is this acceptable,-0.287,0.0,0.4725,0.1758,negative,2026-03-13,2026-03,2026-W10,11,https://example.com/9mobile/4162
+425,twitter,9mobile,9mobile and airtel merger talks what does it mean for customers,0.0158,0.013,0.2882,0.0,neutral,2026-03-13,2026-03,2026-W10,9,https://example.com/9mobile/2795
+711,twitter,Smile,mtn internet completely down for 3 hours terrible service,-0.1498,0.0,0.3975,0.0908,negative,2026-03-13,2026-03,2026-W10,5,https://example.com/smile/5559
+641,twitter,Smile,smile internet perfect for working from home no complaints,0.3374,0.3213,0.3361,0.0,positive,2026-03-13,2026-03,2026-W10,5,https://example.com/smile/6657
+332,twitter,Glo,airtel 5g speeds are incredible streaming without buffering,0.2856,0.1822,0.457,0.0,positive,2026-03-13,2026-03,2026-W10,4,https://example.com/glo/4251
+613,news,Smile,smile wins best telecom provider award customer satisfaction survey,0.1559,0.1302,0.4472,0.0,positive,2026-03-13,2026-03,2026-W10,1,https://example.com/smile/9523
+696,twitter,Smile,airtel network coverage improved a lot in my area good job,0.36,0.2162,0.3828,0.0,positive,2026-03-13,2026-03,2026-W10,1,https://example.com/smile/7867
+147,news,Airtel,airtel wins best telecom provider award customer satisfaction survey,0.0702,0.0508,0.4383,0.0,positive,2026-03-12,2026-03,2026-W10,17,https://example.com/airtel/3274
+195,twitter,Airtel,mtn internet speed has been great this week finally enjoying browsing,0.0835,0.0829,0.2383,0.0,positive,2026-03-12,2026-03,2026-W10,14,https://example.com/airtel/4624
+74,news,MTN,mtn expands 4g lte coverage across 12 new states improves connectivity,0.6855,0.4866,0.4048,0.0,positive,2026-03-11,2026-03,2026-W10,20,https://example.com/mtn/8098
+298,twitter,Glo,glo network always slow during peak hours so frustrating,-0.5579,0.0,0.1037,0.3882,negative,2026-03-11,2026-03,2026-W10,12,https://example.com/glo/3742
+678,news,Smile,smile slapped with fine by ncc over quality of service violations,-0.4552,0.0,0.1156,0.45,negative,2026-03-11,2026-03,2026-W10,12,https://example.com/smile/1053
+450,twitter,9mobile,mtn customer service actually resolved my issue quickly impressed,0.2094,0.1989,0.1077,0.0,positive,2026-03-11,2026-03,2026-W10,11,https://example.com/9mobile/9651
+258,twitter,Glo,worst customer service experience ever with glo never again,-0.2471,0.0,0.1083,0.1918,negative,2026-03-11,2026-03,2026-W10,11,https://example.com/glo/4616
+390,twitter,9mobile,airtel data finished before it should have suspected billing fraud,-0.1788,0.0,0.371,0.1492,negative,2026-03-11,2026-03,2026-W10,10,https://example.com/9mobile/9709
+65,news,MTN,mtn cuts data prices by 20 percent for all subscribers,0.2599,0.2424,0.2586,0.0,positive,2026-03-11,2026-03,2026-W10,7,https://example.com/mtn/9661
+657,twitter,Smile,spectranet fibre connection never disappoints fast reliable,0.1936,0.192,0.4758,0.0,positive,2026-03-11,2026-03,2026-W10,3,https://example.com/smile/9063
+280,news,Glo,glo wins best telecom provider award customer satisfaction survey,0.2361,0.2063,0.1806,0.0,positive,2026-03-10,2026-03,2026-W10,23,https://example.com/glo/3386
+171,news,Airtel,airtel customer satisfaction scores hit five year high,0.5975,0.4574,0.1465,0.0,positive,2026-03-10,2026-03,2026-W10,23,https://example.com/airtel/9406
+457,twitter,9mobile,worst customer service experience ever with glo never again,-0.2144,0.0,0.3868,0.1911,negative,2026-03-10,2026-03,2026-W10,19,https://example.com/9mobile/4364
+401,twitter,9mobile,spectranet vs smile which is better for small business,-0.0067,0.0,0.2308,0.0056,neutral,2026-03-10,2026-03,2026-W10,18,https://example.com/9mobile/1251
+712,news,Smile,smile announces network upgrade scheduled maintenance period,-0.0058,0.0,0.104,0.0039,neutral,2026-03-10,2026-03,2026-W10,16,https://example.com/smile/5993
+358,twitter,Glo,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.4779,0.0,0.4484,0.4764,negative,2026-03-10,2026-03,2026-W10,14,https://example.com/glo/1440
+11,news,MTN,mtn cuts data prices by 20 percent for all subscribers,0.5189,0.3653,0.1285,0.0,positive,2026-03-10,2026-03,2026-W10,12,https://example.com/mtn/7141
+538,twitter,Spectranet,spectranet fibre connection never disappoints fast reliable,0.3384,0.2635,0.4663,0.0,positive,2026-03-10,2026-03,2026-W10,10,https://example.com/spectranet/2144
+67,twitter,MTN,airtel just launched new monthly data bundles check their website,-0.0111,0.0,0.2512,0.0095,neutral,2026-03-10,2026-03,2026-W10,7,https://example.com/mtn/4004
+186,twitter,Airtel,mtn internet speed has been great this week finally enjoying browsing,0.5947,0.5648,0.1283,0.0,positive,2026-03-10,2026-03,2026-W10,6,https://example.com/airtel/8867
+204,news,Airtel,airtel network reliability drops amid infrastructure challenges,-0.266,0.0,0.4143,0.198,negative,2026-03-10,2026-03,2026-W10,6,https://example.com/airtel/2103
+154,twitter,Airtel,spectranet fibre connection never disappoints fast reliable,0.436,0.3668,0.1444,0.0,positive,2026-03-10,2026-03,2026-W10,3,https://example.com/airtel/8119
+8,news,MTN,mtn network reliability drops amid infrastructure challenges,-0.4743,0.0,0.3812,0.3258,negative,2026-03-09,2026-03,2026-W10,22,https://example.com/mtn/3820
+288,twitter,Glo,mtn network congestion every evening ruins my streaming experience,-0.2195,0.0,0.3571,0.1454,negative,2026-03-09,2026-03,2026-W10,21,https://example.com/glo/6823
+553,news,Spectranet,spectranet faces backlash over unexpected data depletion complaints surge,-0.1836,0.0,0.1785,0.146,negative,2026-03-09,2026-03,2026-W10,17,https://example.com/spectranet/7809
+178,twitter,Airtel,smile internet perfect for working from home no complaints,0.2902,0.213,0.1879,0.0,positive,2026-03-09,2026-03,2026-W10,10,https://example.com/airtel/4288
+412,news,9mobile,9mobile slapped with fine by ncc over quality of service violations,-0.2385,0.0,0.3524,0.189,negative,2026-03-09,2026-03,2026-W10,9,https://example.com/9mobile/1354
+303,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.7503,0.0,0.3026,0.5043,negative,2026-03-09,2026-03,2026-W10,8,https://example.com/glo/3636
+653,twitter,Smile,airtel keeps throttling my connection after half my data is used,-0.3313,0.0,0.4843,0.3159,negative,2026-03-09,2026-03,2026-W10,6,https://example.com/smile/5735
+142,twitter,Airtel,9mobile coverage dead zone in my entire neighborhood useless,-0.4278,0.0,0.2901,0.2571,negative,2026-03-09,2026-03,2026-W10,4,https://example.com/airtel/7869
+183,news,Airtel,airtel expands 4g lte coverage across 12 new states improves connectivity,0.361,0.2861,0.242,0.0,positive,2026-03-09,2026-03,2026-W10,4,https://example.com/airtel/3383
+333,news,Glo,glo wins best telecom provider award customer satisfaction survey,0.7621,0.5306,0.4321,0.0,positive,2026-03-09,2026-03,2026-W10,1,https://example.com/glo/6685
+670,news,Smile,smile outage affects thousands of customers in major cities,-0.2248,0.0,0.371,0.1931,negative,2026-03-08,2026-03,2026-W09,18,https://example.com/smile/1616
+161,twitter,Airtel,spectranet fibre connection never disappoints fast reliable,0.1305,0.0879,0.1552,0.0,positive,2026-03-08,2026-03,2026-W09,17,https://example.com/airtel/6326
+429,twitter,9mobile,smile internet perfect for working from home no complaints,0.0708,0.0544,0.2068,0.0,positive,2026-03-08,2026-03,2026-W09,15,https://example.com/9mobile/4974
+708,news,Smile,smile cuts data prices by 20 percent for all subscribers,0.1489,0.094,0.1062,0.0,positive,2026-03-08,2026-03,2026-W09,15,https://example.com/smile/6909
+139,news,Airtel,airtel announces network upgrade scheduled maintenance period,0.0216,0.02,0.2129,0.0,neutral,2026-03-08,2026-03,2026-W09,14,https://example.com/airtel/2563
+424,twitter,9mobile,mtn network congestion every evening ruins my streaming experience,-0.2241,0.0,0.4962,0.1831,negative,2026-03-08,2026-03,2026-W09,14,https://example.com/9mobile/3917
+409,news,9mobile,9mobile network reliability drops amid infrastructure challenges,-0.2868,0.0,0.3634,0.2805,negative,2026-03-08,2026-03,2026-W09,13,https://example.com/9mobile/7777
+541,twitter,Spectranet,just renewed my mtn data plan value for money as always,0.0779,0.0501,0.4551,0.0,positive,2026-03-08,2026-03,2026-W09,12,https://example.com/spectranet/6821
+519,news,Spectranet,spectranet outage affects thousands of customers in major cities,-0.1851,0.0,0.3658,0.1339,negative,2026-03-08,2026-03,2026-W09,9,https://example.com/spectranet/7029
+38,twitter,MTN,mtn internet speed has been great this week finally enjoying browsing,0.0772,0.0672,0.4122,0.0,positive,2026-03-08,2026-03,2026-W09,3,https://example.com/mtn/1619
+272,twitter,Glo,mtn internet completely down for 3 hours terrible service,-0.128,0.0,0.4856,0.1189,negative,2026-03-07,2026-03,2026-W09,21,https://example.com/glo/2105
+63,twitter,MTN,mtn customer service actually resolved my issue quickly impressed,0.3802,0.3574,0.3368,0.0,positive,2026-03-07,2026-03,2026-W09,12,https://example.com/mtn/2058
+362,news,9mobile,9mobile faces backlash over unexpected data depletion complaints surge,-0.1725,0.0,0.3465,0.1166,negative,2026-03-07,2026-03,2026-W09,12,https://example.com/9mobile/2727
+150,twitter,Airtel,spectranet fibre connection never disappoints fast reliable,0.3984,0.2462,0.4382,0.0,positive,2026-03-07,2026-03,2026-W09,7,https://example.com/airtel/8695
+557,news,Spectranet,spectranet expands 4g lte coverage across 12 new states improves connectivity,0.1601,0.1102,0.2515,0.0,positive,2026-03-06,2026-03,2026-W09,19,https://example.com/spectranet/5318
+327,twitter,Glo,mtn network congestion every evening ruins my streaming experience,-0.0973,0.0,0.1943,0.0614,negative,2026-03-06,2026-03,2026-W09,17,https://example.com/glo/7838
+655,news,Smile,smile wins best telecom provider award customer satisfaction survey,0.1017,0.0917,0.2124,0.0,positive,2026-03-06,2026-03,2026-W09,13,https://example.com/smile/8267
+707,twitter,Smile,mtn network congestion every evening ruins my streaming experience,-0.1661,0.0,0.4604,0.1319,negative,2026-03-06,2026-03,2026-W09,12,https://example.com/smile/9955
+403,news,9mobile,9mobile slapped with fine by ncc over quality of service violations,-0.6687,0.0,0.4851,0.58,negative,2026-03-06,2026-03,2026-W09,12,https://example.com/9mobile/7011
+503,news,Spectranet,spectranet customer satisfaction scores hit five year high,0.0553,0.0542,0.3102,0.0,positive,2026-03-06,2026-03,2026-W09,8,https://example.com/spectranet/8483
+700,twitter,Smile,glo internet disconnects every few minutes how is this acceptable,-0.6209,0.0,0.1491,0.4659,negative,2026-03-06,2026-03,2026-W09,8,https://example.com/smile/4258
+190,news,Airtel,airtel network reliability drops amid infrastructure challenges,-0.3148,0.0,0.2693,0.2511,negative,2026-03-06,2026-03,2026-W09,7,https://example.com/airtel/4767
+111,twitter,MTN,airtel network coverage improved a lot in my area good job,0.7938,0.6778,0.284,0.0,positive,2026-03-06,2026-03,2026-W09,7,https://example.com/mtn/2552
+112,news,MTN,mtn launches fibre broadband service fastest speeds in region,0.2509,0.162,0.4385,0.0,positive,2026-03-06,2026-03,2026-W09,0,https://example.com/mtn/8696
+75,twitter,MTN,just renewed my mtn data plan value for money as always,0.2793,0.1686,0.1571,0.0,positive,2026-03-05,2026-03,2026-W09,15,https://example.com/mtn/1780
+632,twitter,Smile,mtn network maintenance scheduled for sunday morning,0.0207,0.0183,0.268,0.0,neutral,2026-03-05,2026-03,2026-W09,8,https://example.com/smile/4061
+492,twitter,Spectranet,mtn network maintenance scheduled for sunday morning,-0.0451,0.0,0.4985,0.0441,neutral,2026-03-05,2026-03,2026-W09,5,https://example.com/spectranet/9598
+251,twitter,Glo,smile internet perfect for working from home no complaints,0.3901,0.3793,0.4524,0.0,positive,2026-03-05,2026-03,2026-W09,4,https://example.com/glo/7729
+564,news,Spectranet,spectranet expands 4g lte coverage across 12 new states improves connectivity,0.1303,0.1006,0.1206,0.0,positive,2026-03-05,2026-03,2026-W09,4,https://example.com/spectranet/2349
+354,news,Glo,glo wins best telecom provider award customer satisfaction survey,0.4863,0.437,0.4145,0.0,positive,2026-03-04,2026-03,2026-W09,19,https://example.com/glo/7819
+385,twitter,9mobile,mtn data prices unchanged this quarter,0.0289,0.0203,0.3669,0.0,neutral,2026-03-04,2026-03,2026-W09,17,https://example.com/9mobile/3565
+675,news,Smile,smile faces backlash over unexpected data depletion complaints surge,-0.6019,0.0,0.1526,0.5676,negative,2026-03-04,2026-03,2026-W09,13,https://example.com/smile/6899
+496,twitter,Spectranet,just renewed my mtn data plan value for money as always,0.3696,0.3076,0.1734,0.0,positive,2026-03-04,2026-03,2026-W09,11,https://example.com/spectranet/2912
+15,twitter,MTN,anyone know the best isp in lagos for home internet,0.0128,0.009,0.4007,0.0,neutral,2026-03-04,2026-03,2026-W09,1,https://example.com/mtn/1790
+681,twitter,Smile,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.3161,0.0,0.1016,0.2067,negative,2026-03-04,2026-03,2026-W09,0,https://example.com/smile/5668
+515,news,Spectranet,spectranet wins best telecom provider award customer satisfaction survey,0.0851,0.0724,0.2871,0.0,positive,2026-03-03,2026-03,2026-W09,22,https://example.com/spectranet/3131
+262,news,Glo,glo customer complaints up 35 percent in latest industry report,-0.2002,0.0,0.2461,0.1691,negative,2026-03-03,2026-03,2026-W09,20,https://example.com/glo/8451
+546,news,Spectranet,spectranet cuts data prices by 20 percent for all subscribers,0.4506,0.4441,0.4585,0.0,positive,2026-03-03,2026-03,2026-W09,20,https://example.com/spectranet/7056
+339,twitter,Glo,airtel data finished before it should have suspected billing fraud,-0.1536,0.0,0.4494,0.1272,negative,2026-03-03,2026-03,2026-W09,16,https://example.com/glo/8526
+603,twitter,Smile,smile internet perfect for working from home no complaints,0.2154,0.1817,0.3532,0.0,positive,2026-03-03,2026-03,2026-W09,7,https://example.com/smile/3479
+51,news,MTN,mtn expands 4g lte coverage across 12 new states improves connectivity,0.1824,0.1587,0.4604,0.0,positive,2026-03-03,2026-03,2026-W09,1,https://example.com/mtn/3975
+39,news,MTN,mtn launches fibre broadband service fastest speeds in region,0.3098,0.262,0.367,0.0,positive,2026-03-03,2026-03,2026-W09,0,https://example.com/mtn/3606
+59,twitter,MTN,spectranet vs smile which is better for small business,0.0187,0.0166,0.1418,0.0,neutral,2026-03-02,2026-03,2026-W09,23,https://example.com/mtn/4121
+306,twitter,Glo,mtn network congestion every evening ruins my streaming experience,-0.6063,0.0,0.1827,0.5082,negative,2026-03-02,2026-03,2026-W09,20,https://example.com/glo/3871
+388,twitter,9mobile,glo internet disconnects every few minutes how is this acceptable,-0.3799,0.0,0.2432,0.2525,negative,2026-03-02,2026-03,2026-W09,20,https://example.com/9mobile/8022
+619,twitter,Smile,mtn internet speed has been great this week finally enjoying browsing,0.093,0.0653,0.3774,0.0,positive,2026-03-02,2026-03,2026-W09,19,https://example.com/smile/6284
+71,twitter,MTN,just renewed my mtn data plan value for money as always,0.2352,0.1802,0.1405,0.0,positive,2026-03-02,2026-03,2026-W09,18,https://example.com/mtn/4236
+137,news,Airtel,airtel expands 4g lte coverage across 12 new states improves connectivity,0.0756,0.057,0.4005,0.0,positive,2026-03-02,2026-03,2026-W09,15,https://example.com/airtel/4796
+318,twitter,Glo,glo internet speed is embarrassingly slow cannot work from home,-0.5656,0.0,0.1548,0.4621,negative,2026-03-02,2026-03,2026-W09,10,https://example.com/glo/1735
+62,twitter,MTN,airtel network coverage improved a lot in my area good job,0.4203,0.2644,0.1202,0.0,positive,2026-03-02,2026-03,2026-W09,8,https://example.com/mtn/4941
+278,twitter,Glo,spectranet fibre connection never disappoints fast reliable,0.3853,0.2441,0.1741,0.0,positive,2026-03-02,2026-03,2026-W09,4,https://example.com/glo/9334
+88,news,MTN,mtn network reliability drops amid infrastructure challenges,-0.1722,0.0,0.3089,0.1504,negative,2026-03-02,2026-03,2026-W09,0,https://example.com/mtn/5938
+31,twitter,MTN,mtn internet completely down for 3 hours terrible service,-0.7172,0.0,0.2278,0.5564,negative,2026-03-02,2026-03,2026-W09,0,https://example.com/mtn/7029
+606,twitter,Smile,airtel data plan worth every naira excellent network coverage,0.6389,0.4187,0.4787,0.0,positive,2026-03-01,2026-03,2026-W08,23,https://example.com/smile/2125
+491,twitter,Spectranet,comparing mtn vs airtel data plans for monthly subscription,-0.0337,0.0,0.1478,0.0238,neutral,2026-03-01,2026-03,2026-W08,17,https://example.com/spectranet/6296
+692,twitter,Smile,just renewed my mtn data plan value for money as always,0.5947,0.4015,0.129,0.0,positive,2026-03-01,2026-03,2026-W08,17,https://example.com/smile/4327
+572,twitter,Spectranet,airtel network coverage improved a lot in my area good job,0.4146,0.3902,0.1419,0.0,positive,2026-03-01,2026-03,2026-W08,15,https://example.com/spectranet/4790
+618,news,Smile,smile launches fibre broadband service fastest speeds in region,0.2259,0.1471,0.2334,0.0,positive,2026-03-01,2026-03,2026-W08,6,https://example.com/smile/6938
+686,news,Smile,smile customer satisfaction scores hit five year high,0.1953,0.1403,0.121,0.0,positive,2026-03-01,2026-03,2026-W08,6,https://example.com/smile/6294
+426,twitter,9mobile,just renewed my mtn data plan value for money as always,0.3361,0.2711,0.4587,0.0,positive,2026-02-28,2026-02,2026-W08,18,https://example.com/9mobile/5242
+376,twitter,9mobile,airtel 5g speeds are incredible streaming without buffering,0.0961,0.0749,0.1067,0.0,positive,2026-02-28,2026-02,2026-W08,18,https://example.com/9mobile/7472
+575,twitter,Spectranet,airtel data plan worth every naira excellent network coverage,0.251,0.2204,0.4759,0.0,positive,2026-02-28,2026-02,2026-W08,17,https://example.com/spectranet/3717
+344,twitter,Glo,airtel just launched new monthly data bundles check their website,-0.0239,0.0,0.1474,0.0151,neutral,2026-02-28,2026-02,2026-W08,17,https://example.com/glo/5453
+188,news,Airtel,airtel network reliability drops amid infrastructure challenges,-0.0821,0.0,0.3959,0.0694,negative,2026-02-28,2026-02,2026-W08,13,https://example.com/airtel/6083
+367,twitter,9mobile,spectranet fibre connection never disappoints fast reliable,0.0558,0.0425,0.1873,0.0,positive,2026-02-28,2026-02,2026-W08,12,https://example.com/9mobile/4033
+247,twitter,Glo,glo internet disconnects every few minutes how is this acceptable,-0.2217,0.0,0.4986,0.1341,negative,2026-02-28,2026-02,2026-W08,10,https://example.com/glo/9158
+249,news,Glo,glo slapped with fine by ncc over quality of service violations,-0.9065,0.0,0.2822,0.5449,negative,2026-02-28,2026-02,2026-W08,5,https://example.com/glo/6254
+312,twitter,Glo,mtn internet speed has been great this week finally enjoying browsing,0.126,0.1135,0.4343,0.0,positive,2026-02-28,2026-02,2026-W08,4,https://example.com/glo/6894
+363,news,9mobile,9mobile cuts data prices by 20 percent for all subscribers,0.2411,0.2092,0.441,0.0,positive,2026-02-28,2026-02,2026-W08,2,https://example.com/9mobile/6292
+452,twitter,9mobile,glo internet disconnects every few minutes how is this acceptable,-0.147,0.0,0.1533,0.093,negative,2026-02-28,2026-02,2026-W08,1,https://example.com/9mobile/9847
+415,twitter,9mobile,smile internet perfect for working from home no complaints,0.1759,0.1746,0.1255,0.0,positive,2026-02-28,2026-02,2026-W08,1,https://example.com/9mobile/9619
+300,twitter,Glo,anyone know the best isp in lagos for home internet,0.0453,0.0371,0.1241,0.0,neutral,2026-02-28,2026-02,2026-W08,1,https://example.com/glo/8545
+417,twitter,9mobile,mtn customer service actually resolved my issue quickly impressed,0.4138,0.2791,0.226,0.0,positive,2026-02-27,2026-02,2026-W08,22,https://example.com/9mobile/3603
+95,twitter,MTN,airtel keeps throttling my connection after half my data is used,-0.2004,0.0,0.4397,0.1276,negative,2026-02-27,2026-02,2026-W08,21,https://example.com/mtn/1144
+629,twitter,Smile,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.2385,0.0,0.4131,0.2218,negative,2026-02-27,2026-02,2026-W08,17,https://example.com/smile/4300
+185,news,Airtel,airtel launches fibre broadband service fastest speeds in region,0.2147,0.1679,0.1615,0.0,positive,2026-02-27,2026-02,2026-W08,16,https://example.com/airtel/8179
+612,twitter,Smile,mtn network maintenance scheduled for sunday morning,-0.0299,0.0,0.3815,0.0187,neutral,2026-02-27,2026-02,2026-W08,15,https://example.com/smile/9426
+476,twitter,9mobile,spectranet fibre connection never disappoints fast reliable,0.0939,0.0633,0.1413,0.0,positive,2026-02-27,2026-02,2026-W08,14,https://example.com/9mobile/7625
+169,twitter,Airtel,mtn data prices unchanged this quarter,0.0493,0.0429,0.3692,0.0,neutral,2026-02-27,2026-02,2026-W08,12,https://example.com/airtel/2654
+126,twitter,Airtel,mtn internet speed has been great this week finally enjoying browsing,0.0586,0.0376,0.4365,0.0,positive,2026-02-27,2026-02,2026-W08,11,https://example.com/airtel/6058
+349,twitter,Glo,mtn internet completely down for 3 hours terrible service,-0.559,0.0,0.3569,0.4967,negative,2026-02-27,2026-02,2026-W08,8,https://example.com/glo/5997
+32,twitter,MTN,9mobile coverage dead zone in my entire neighborhood useless,-0.6621,0.0,0.1646,0.5718,negative,2026-02-26,2026-02,2026-W08,22,https://example.com/mtn/9625
+434,twitter,9mobile,mtn internet completely down for 3 hours terrible service,-0.3499,0.0,0.3056,0.2993,negative,2026-02-26,2026-02,2026-W08,17,https://example.com/9mobile/3011
+116,news,MTN,mtn expands 4g lte coverage across 12 new states improves connectivity,0.2492,0.1865,0.4006,0.0,positive,2026-02-26,2026-02,2026-W08,11,https://example.com/mtn/7937
+127,news,Airtel,airtel introduces new business data plans for enterprise customers,-0.022,0.0,0.2673,0.0169,neutral,2026-02-26,2026-02,2026-W08,10,https://example.com/airtel/1653
+335,twitter,Glo,mtn internet speed has been great this week finally enjoying browsing,1.0,0.885,0.2867,0.0,positive,2026-02-26,2026-02,2026-W08,8,https://example.com/glo/9641
+211,twitter,Airtel,airtel just launched new monthly data bundles check their website,-0.0072,0.0,0.1106,0.0068,neutral,2026-02-26,2026-02,2026-W08,7,https://example.com/airtel/1302
+187,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.2877,0.1942,0.4628,0.0,positive,2026-02-26,2026-02,2026-W08,5,https://example.com/airtel/3821
+535,news,Spectranet,spectranet customer satisfaction scores hit five year high,0.0765,0.0606,0.1593,0.0,positive,2026-02-25,2026-02,2026-W08,22,https://example.com/spectranet/8221
+81,news,MTN,mtn signs partnership deal with international telecom provider,-0.0176,0.0,0.1812,0.0135,neutral,2026-02-25,2026-02,2026-W08,18,https://example.com/mtn/7539
+413,twitter,9mobile,glo internet disconnects every few minutes how is this acceptable,-0.4381,0.0,0.4438,0.4014,negative,2026-02-25,2026-02,2026-W08,14,https://example.com/9mobile/9758
+543,news,Spectranet,spectranet customer satisfaction scores hit five year high,0.6144,0.4835,0.4696,0.0,positive,2026-02-25,2026-02,2026-W08,13,https://example.com/spectranet/2605
+717,news,Smile,smile introduces new business data plans for enterprise customers,-0.0025,0.0,0.3519,0.0016,neutral,2026-02-25,2026-02,2026-W08,11,https://example.com/smile/6261
+96,twitter,MTN,airtel network coverage improved a lot in my area good job,0.374,0.3111,0.4479,0.0,positive,2026-02-25,2026-02,2026-W08,3,https://example.com/mtn/2537
+484,twitter,Spectranet,comparing mtn vs airtel data plans for monthly subscription,0.0313,0.0282,0.4959,0.0,neutral,2026-02-25,2026-02,2026-W08,1,https://example.com/spectranet/1744
+673,twitter,Smile,mtn network congestion every evening ruins my streaming experience,-0.5147,0.0,0.4046,0.3844,negative,2026-02-24,2026-02,2026-W08,20,https://example.com/smile/5252
+162,twitter,Airtel,worst customer service experience ever with glo never again,-0.5359,0.0,0.2385,0.5204,negative,2026-02-24,2026-02,2026-W08,8,https://example.com/airtel/6637
+84,twitter,MTN,smile internet perfect for working from home no complaints,0.2172,0.1422,0.4884,0.0,positive,2026-02-24,2026-02,2026-W08,4,https://example.com/mtn/6937
+227,twitter,Airtel,airtel 5g speeds are incredible streaming without buffering,0.1226,0.1115,0.2408,0.0,positive,2026-02-24,2026-02,2026-W08,3,https://example.com/airtel/5752
+627,twitter,Smile,mtn internet speed has been great this week finally enjoying browsing,0.2313,0.1986,0.1105,0.0,positive,2026-02-23,2026-02,2026-W08,20,https://example.com/smile/2650
+311,twitter,Glo,mtn internet speed has been great this week finally enjoying browsing,0.2474,0.2327,0.1899,0.0,positive,2026-02-23,2026-02,2026-W08,19,https://example.com/glo/9610
+381,twitter,9mobile,airtel data finished before it should have suspected billing fraud,-0.2078,0.0,0.2754,0.186,negative,2026-02-23,2026-02,2026-W08,18,https://example.com/9mobile/4632
+158,twitter,Airtel,airtel network coverage improved a lot in my area good job,0.1381,0.1027,0.1215,0.0,positive,2026-02-23,2026-02,2026-W08,18,https://example.com/airtel/2682
+202,twitter,Airtel,spectranet fibre connection never disappoints fast reliable,0.3362,0.2606,0.2734,0.0,positive,2026-02-23,2026-02,2026-W08,15,https://example.com/airtel/7922
+474,twitter,9mobile,glo internet speed is embarrassingly slow cannot work from home,-0.0502,0.0,0.3151,0.0316,negative,2026-02-23,2026-02,2026-W08,15,https://example.com/9mobile/4192
+60,twitter,MTN,glo internet disconnects every few minutes how is this acceptable,-0.3344,0.0,0.2624,0.2589,negative,2026-02-23,2026-02,2026-W08,13,https://example.com/mtn/8168
+241,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.36,0.0,0.4631,0.3419,negative,2026-02-23,2026-02,2026-W08,4,https://example.com/glo/6125
+391,twitter,9mobile,mtn internet speed has been great this week finally enjoying browsing,1.0,0.6199,0.1723,0.0,positive,2026-02-23,2026-02,2026-W08,4,https://example.com/9mobile/5851
+83,twitter,MTN,worst customer service experience ever with glo never again,-0.47,0.0,0.3293,0.3723,negative,2026-02-23,2026-02,2026-W08,3,https://example.com/mtn/2805
+447,twitter,9mobile,airtel data finished before it should have suspected billing fraud,-0.3825,0.0,0.1273,0.2859,negative,2026-02-23,2026-02,2026-W08,2,https://example.com/9mobile/6646
+579,twitter,Spectranet,smile internet perfect for working from home no complaints,0.2529,0.2366,0.1508,0.0,positive,2026-02-22,2026-02,2026-W07,21,https://example.com/spectranet/4414
+507,twitter,Spectranet,mtn internet speed has been great this week finally enjoying browsing,0.7501,0.6,0.3074,0.0,positive,2026-02-22,2026-02,2026-W07,20,https://example.com/spectranet/1871
+522,twitter,Spectranet,mtn internet speed has been great this week finally enjoying browsing,0.1634,0.1067,0.2998,0.0,positive,2026-02-22,2026-02,2026-W07,19,https://example.com/spectranet/3876
+467,twitter,9mobile,glo network always slow during peak hours so frustrating,-0.3276,0.0,0.2615,0.2073,negative,2026-02-22,2026-02,2026-W07,7,https://example.com/9mobile/2122
+500,news,Spectranet,spectranet wins best telecom provider award customer satisfaction survey,0.07,0.0446,0.4861,0.0,positive,2026-02-22,2026-02,2026-W07,2,https://example.com/spectranet/5024
+107,twitter,MTN,just renewed my mtn data plan value for money as always,0.0623,0.0517,0.4956,0.0,positive,2026-02-22,2026-02,2026-W07,0,https://example.com/mtn/9635
+292,twitter,Glo,glo network always slow during peak hours so frustrating,-0.1737,0.0,0.3498,0.124,negative,2026-02-21,2026-02,2026-W07,23,https://example.com/glo/7520
+652,twitter,Smile,airtel data finished before it should have suspected billing fraud,-0.3083,0.0,0.3516,0.2571,negative,2026-02-21,2026-02,2026-W07,19,https://example.com/smile/1434
+719,twitter,Smile,smile internet perfect for working from home no complaints,0.5949,0.4831,0.4545,0.0,positive,2026-02-21,2026-02,2026-W07,18,https://example.com/smile/2105
+493,news,Spectranet,spectranet customer satisfaction scores hit five year high,0.2044,0.146,0.2235,0.0,positive,2026-02-21,2026-02,2026-W07,17,https://example.com/spectranet/2655
+226,news,Airtel,airtel customer complaints up 35 percent in latest industry report,-0.3591,0.0,0.2898,0.3466,negative,2026-02-21,2026-02,2026-W07,17,https://example.com/airtel/9897
+665,twitter,Smile,smile internet perfect for working from home no complaints,0.2408,0.1776,0.3189,0.0,positive,2026-02-21,2026-02,2026-W07,16,https://example.com/smile/4438
+342,twitter,Glo,airtel data plan worth every naira excellent network coverage,0.2887,0.2865,0.236,0.0,positive,2026-02-21,2026-02,2026-W07,12,https://example.com/glo/5289
+230,twitter,Airtel,airtel network coverage improved a lot in my area good job,0.1859,0.1427,0.3438,0.0,positive,2026-02-21,2026-02,2026-W07,5,https://example.com/airtel/3254
+128,twitter,Airtel,airtel data plan worth every naira excellent network coverage,0.4151,0.3101,0.2049,0.0,positive,2026-02-21,2026-02,2026-W07,4,https://example.com/airtel/5958
+684,twitter,Smile,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.3052,0.0,0.1939,0.289,negative,2026-02-21,2026-02,2026-W07,2,https://example.com/smile/8772
+643,news,Smile,smile network reliability drops amid infrastructure challenges,-0.2394,0.0,0.1681,0.1971,negative,2026-02-20,2026-02,2026-W07,22,https://example.com/smile/6255
+54,twitter,MTN,mtn customer service actually resolved my issue quickly impressed,0.7035,0.5097,0.477,0.0,positive,2026-02-20,2026-02,2026-W07,21,https://example.com/mtn/4493
+544,twitter,Spectranet,mtn customer service actually resolved my issue quickly impressed,0.0695,0.0471,0.2414,0.0,positive,2026-02-20,2026-02,2026-W07,19,https://example.com/spectranet/6534
+701,news,Smile,smile cuts data prices by 20 percent for all subscribers,0.4726,0.438,0.2985,0.0,positive,2026-02-20,2026-02,2026-W07,19,https://example.com/smile/5722
+85,twitter,MTN,9mobile and airtel merger talks what does it mean for customers,-0.0237,0.0,0.2622,0.0144,neutral,2026-02-20,2026-02,2026-W07,18,https://example.com/mtn/7368
+35,twitter,MTN,mtn internet speed has been great this week finally enjoying browsing,0.4252,0.3998,0.4474,0.0,positive,2026-02-20,2026-02,2026-W07,16,https://example.com/mtn/8919
+4,twitter,MTN,airtel network coverage improved a lot in my area good job,0.3045,0.2421,0.1799,0.0,positive,2026-02-20,2026-02,2026-W07,9,https://example.com/mtn/1285
+688,news,Smile,smile faces backlash over unexpected data depletion complaints surge,-0.0572,0.0,0.4332,0.055,negative,2026-02-20,2026-02,2026-W07,6,https://example.com/smile/4611
+148,news,Airtel,airtel cuts data prices by 20 percent for all subscribers,0.3296,0.2552,0.4451,0.0,positive,2026-02-20,2026-02,2026-W07,3,https://example.com/airtel/7691
+14,news,MTN,mtn quarterly earnings meet analyst expectations revenue stable,0.0404,0.0271,0.2881,0.0,neutral,2026-02-20,2026-02,2026-W07,2,https://example.com/mtn/7728
+659,twitter,Smile,airtel network coverage improved a lot in my area good job,0.1659,0.1347,0.3528,0.0,positive,2026-02-20,2026-02,2026-W07,0,https://example.com/smile/5851
+432,twitter,9mobile,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.2146,0.0,0.2766,0.133,negative,2026-02-20,2026-02,2026-W07,0,https://example.com/9mobile/8822
+473,news,9mobile,9mobile customer complaints up 35 percent in latest industry report,-0.3296,0.0,0.1393,0.3264,negative,2026-02-19,2026-02,2026-W07,19,https://example.com/9mobile/1648
+698,twitter,Smile,smile internet perfect for working from home no complaints,0.0925,0.0855,0.266,0.0,positive,2026-02-19,2026-02,2026-W07,13,https://example.com/smile/4098
+286,twitter,Glo,spectranet vs smile which is better for small business,-0.0194,0.0,0.3936,0.0189,neutral,2026-02-19,2026-02,2026-W07,12,https://example.com/glo/2976
+705,news,Smile,smile faces backlash over unexpected data depletion complaints surge,-0.474,0.0,0.2312,0.3043,negative,2026-02-19,2026-02,2026-W07,5,https://example.com/smile/2576
+660,twitter,Smile,airtel 5g speeds are incredible streaming without buffering,0.0818,0.079,0.4329,0.0,positive,2026-02-19,2026-02,2026-W07,4,https://example.com/smile/6630
+449,twitter,9mobile,glo network always slow during peak hours so frustrating,-0.5026,0.0,0.4777,0.3334,negative,2026-02-19,2026-02,2026-W07,4,https://example.com/9mobile/4559
+44,twitter,MTN,airtel 5g speeds are incredible streaming without buffering,0.2006,0.1604,0.4652,0.0,positive,2026-02-18,2026-02,2026-W07,18,https://example.com/mtn/9461
+402,twitter,9mobile,mtn network congestion every evening ruins my streaming experience,-0.4534,0.0,0.2738,0.3795,negative,2026-02-18,2026-02,2026-W07,17,https://example.com/9mobile/9898
+255,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.6174,0.0,0.2434,0.4611,negative,2026-02-18,2026-02,2026-W07,16,https://example.com/glo/9945
+518,news,Spectranet,spectranet faces backlash over unexpected data depletion complaints surge,-0.3593,0.0,0.4315,0.3077,negative,2026-02-18,2026-02,2026-W07,14,https://example.com/spectranet/7296
+283,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.4267,0.0,0.2241,0.4002,negative,2026-02-18,2026-02,2026-W07,14,https://example.com/glo/8108
+677,twitter,Smile,airtel network coverage improved a lot in my area good job,0.1926,0.1311,0.2576,0.0,positive,2026-02-18,2026-02,2026-W07,7,https://example.com/smile/2617
+66,twitter,MTN,airtel 5g speeds are incredible streaming without buffering,0.1586,0.1167,0.1158,0.0,positive,2026-02-18,2026-02,2026-W07,5,https://example.com/mtn/4101
+574,twitter,Spectranet,airtel 5g speeds are incredible streaming without buffering,0.31,0.1955,0.3937,0.0,positive,2026-02-18,2026-02,2026-W07,0,https://example.com/spectranet/3917
+442,news,9mobile,9mobile faces backlash over unexpected data depletion complaints surge,-0.3263,0.0,0.4406,0.2405,negative,2026-02-17,2026-02,2026-W07,17,https://example.com/9mobile/4539
+607,news,Smile,smile launches fibre broadband service fastest speeds in region,0.302,0.2286,0.4584,0.0,positive,2026-02-17,2026-02,2026-W07,4,https://example.com/smile/2268
+359,twitter,Glo,airtel data finished before it should have suspected billing fraud,-0.8295,0.0,0.4265,0.826,negative,2026-02-16,2026-02,2026-W07,23,https://example.com/glo/6930
+691,news,Smile,smile customer complaints up 35 percent in latest industry report,-0.2618,0.0,0.1068,0.1873,negative,2026-02-16,2026-02,2026-W07,19,https://example.com/smile/8326
+558,news,Spectranet,spectranet quarterly earnings meet analyst expectations revenue stable,-0.002,0.0,0.4202,0.0016,neutral,2026-02-16,2026-02,2026-W07,17,https://example.com/spectranet/8507
+577,twitter,Spectranet,smile internet perfect for working from home no complaints,0.428,0.2689,0.234,0.0,positive,2026-02-16,2026-02,2026-W07,16,https://example.com/spectranet/5981
+250,news,Glo,glo slapped with fine by ncc over quality of service violations,-0.1264,0.0,0.2912,0.125,negative,2026-02-16,2026-02,2026-W07,14,https://example.com/glo/4384
+608,twitter,Smile,mtn internet speed has been great this week finally enjoying browsing,0.1724,0.1251,0.3452,0.0,positive,2026-02-16,2026-02,2026-W07,12,https://example.com/smile/9972
+365,twitter,9mobile,9mobile coverage dead zone in my entire neighborhood useless,-0.3782,0.0,0.321,0.3249,negative,2026-02-16,2026-02,2026-W07,10,https://example.com/9mobile/3541
+400,twitter,9mobile,glo internet disconnects every few minutes how is this acceptable,-0.2543,0.0,0.3828,0.2056,negative,2026-02-16,2026-02,2026-W07,7,https://example.com/9mobile/6215
+393,twitter,9mobile,airtel data plan worth every naira excellent network coverage,0.4103,0.3504,0.3205,0.0,positive,2026-02-16,2026-02,2026-W07,7,https://example.com/9mobile/6356
+351,news,Glo,glo customer complaints up 35 percent in latest industry report,-0.2632,0.0,0.4048,0.208,negative,2026-02-16,2026-02,2026-W07,0,https://example.com/glo/4870
+279,twitter,Glo,comparing mtn vs airtel data plans for monthly subscription,0.0464,0.0395,0.4562,0.0,neutral,2026-02-16,2026-02,2026-W07,0,https://example.com/glo/7388
+309,news,Glo,glo introduces new business data plans for enterprise customers,-0.0274,0.0,0.1581,0.0197,neutral,2026-02-15,2026-02,2026-W06,14,https://example.com/glo/3192
+640,twitter,Smile,airtel network coverage improved a lot in my area good job,0.7573,0.5857,0.4855,0.0,positive,2026-02-15,2026-02,2026-W06,14,https://example.com/smile/5074
+487,twitter,Spectranet,just renewed my mtn data plan value for money as always,0.3001,0.2829,0.1692,0.0,positive,2026-02-15,2026-02,2026-W06,13,https://example.com/spectranet/6536
+421,news,9mobile,9mobile network reliability drops amid infrastructure challenges,-0.3124,0.0,0.4983,0.2785,negative,2026-02-15,2026-02,2026-W06,12,https://example.com/9mobile/3328
+99,twitter,MTN,airtel 5g speeds are incredible streaming without buffering,0.1577,0.0971,0.1702,0.0,positive,2026-02-15,2026-02,2026-W06,12,https://example.com/mtn/9934
+703,news,Smile,smile slapped with fine by ncc over quality of service violations,-0.4326,0.0,0.2645,0.3623,negative,2026-02-15,2026-02,2026-W06,11,https://example.com/smile/8597
+182,twitter,Airtel,airtel 5g speeds are incredible streaming without buffering,0.6215,0.4234,0.2774,0.0,positive,2026-02-15,2026-02,2026-W06,11,https://example.com/airtel/2339
+445,news,9mobile,9mobile customer satisfaction scores hit five year high,0.2151,0.2004,0.4898,0.0,positive,2026-02-15,2026-02,2026-W06,8,https://example.com/9mobile/5378
+174,news,Airtel,airtel slapped with fine by ncc over quality of service violations,-0.1078,0.0,0.2144,0.0992,negative,2026-02-15,2026-02,2026-W06,4,https://example.com/airtel/9385
+609,twitter,Smile,mtn network congestion every evening ruins my streaming experience,-0.2334,0.0,0.2064,0.1432,negative,2026-02-14,2026-02,2026-W06,22,https://example.com/smile/8718
+200,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.0701,0.047,0.4119,0.0,positive,2026-02-14,2026-02,2026-W06,22,https://example.com/airtel/8900
+525,news,Spectranet,spectranet customer satisfaction scores hit five year high,0.2791,0.2774,0.2628,0.0,positive,2026-02-14,2026-02,2026-W06,19,https://example.com/spectranet/8090
+12,news,MTN,mtn slapped with fine by ncc over quality of service violations,-0.4164,0.0,0.3995,0.3184,negative,2026-02-14,2026-02,2026-W06,19,https://example.com/mtn/8882
+124,twitter,Airtel,spectranet fibre connection never disappoints fast reliable,0.2195,0.1634,0.4264,0.0,positive,2026-02-14,2026-02,2026-W06,16,https://example.com/airtel/2854
+702,news,Smile,smile slapped with fine by ncc over quality of service violations,-0.1143,0.0,0.1429,0.0747,negative,2026-02-14,2026-02,2026-W06,16,https://example.com/smile/7739
+173,twitter,Airtel,airtel keeps throttling my connection after half my data is used,-0.2598,0.0,0.1531,0.1873,negative,2026-02-14,2026-02,2026-W06,15,https://example.com/airtel/3124
+471,twitter,9mobile,spectranet fibre connection never disappoints fast reliable,0.4337,0.3019,0.4046,0.0,positive,2026-02-14,2026-02,2026-W06,14,https://example.com/9mobile/4225
+524,twitter,Spectranet,comparing mtn vs airtel data plans for monthly subscription,0.0474,0.0402,0.3106,0.0,neutral,2026-02-14,2026-02,2026-W06,12,https://example.com/spectranet/5186
+52,news,MTN,mtn customer complaints up 35 percent in latest industry report,-0.6054,0.0,0.3031,0.5727,negative,2026-02-14,2026-02,2026-W06,11,https://example.com/mtn/7949
+6,news,MTN,mtn faces backlash over unexpected data depletion complaints surge,-0.6927,0.0,0.347,0.6367,negative,2026-02-14,2026-02,2026-W06,10,https://example.com/mtn/6318
+246,twitter,Glo,airtel data plan worth every naira excellent network coverage,0.0532,0.0419,0.1019,0.0,positive,2026-02-14,2026-02,2026-W06,9,https://example.com/glo/3431
+587,news,Spectranet,spectranet expands 4g lte coverage across 12 new states improves connectivity,0.3326,0.3177,0.3398,0.0,positive,2026-02-14,2026-02,2026-W06,9,https://example.com/spectranet/8686
+529,twitter,Spectranet,airtel 5g speeds are incredible streaming without buffering,0.3783,0.2739,0.4296,0.0,positive,2026-02-14,2026-02,2026-W06,8,https://example.com/spectranet/9418
+468,twitter,9mobile,airtel data finished before it should have suspected billing fraud,-0.1399,0.0,0.3037,0.1176,negative,2026-02-14,2026-02,2026-W06,5,https://example.com/9mobile/6021
+203,twitter,Airtel,glo internet disconnects every few minutes how is this acceptable,-0.1878,0.0,0.261,0.1188,negative,2026-02-13,2026-02,2026-W06,23,https://example.com/airtel/2578
+440,twitter,9mobile,airtel data finished before it should have suspected billing fraud,-0.6071,0.0,0.4766,0.4787,negative,2026-02-13,2026-02,2026-W06,18,https://example.com/9mobile/2090
+267,news,Glo,glo outage affects thousands of customers in major cities,-0.6911,0.0,0.3211,0.5855,negative,2026-02-13,2026-02,2026-W06,15,https://example.com/glo/8895
+64,twitter,MTN,just renewed my mtn data plan value for money as always,0.2168,0.1746,0.3002,0.0,positive,2026-02-13,2026-02,2026-W06,13,https://example.com/mtn/7228
+540,news,Spectranet,spectranet faces backlash over unexpected data depletion complaints surge,-0.27,0.0,0.1173,0.2037,negative,2026-02-13,2026-02,2026-W06,12,https://example.com/spectranet/3926
+252,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.4697,0.0,0.3877,0.3094,negative,2026-02-13,2026-02,2026-W06,8,https://example.com/glo/9673
+533,twitter,Spectranet,airtel network coverage improved a lot in my area good job,0.1612,0.1039,0.3097,0.0,positive,2026-02-13,2026-02,2026-W06,7,https://example.com/spectranet/3591
+263,twitter,Glo,airtel keeps throttling my connection after half my data is used,-0.5117,0.0,0.1528,0.3719,negative,2026-02-12,2026-02,2026-W06,23,https://example.com/glo/8485
+49,twitter,MTN,just renewed my mtn data plan value for money as always,0.0916,0.0814,0.1806,0.0,positive,2026-02-12,2026-02,2026-W06,21,https://example.com/mtn/2201
+219,news,Airtel,airtel wins best telecom provider award customer satisfaction survey,0.5066,0.3197,0.3307,0.0,positive,2026-02-12,2026-02,2026-W06,15,https://example.com/airtel/3314
+103,twitter,MTN,glo network always slow during peak hours so frustrating,-0.269,0.0,0.2582,0.2414,negative,2026-02-12,2026-02,2026-W06,15,https://example.com/mtn/1269
+273,twitter,Glo,airtel data finished before it should have suspected billing fraud,-0.5182,0.0,0.2297,0.4418,negative,2026-02-12,2026-02,2026-W06,14,https://example.com/glo/6697
+330,twitter,Glo,airtel keeps throttling my connection after half my data is used,-0.3206,0.0,0.1353,0.2208,negative,2026-02-12,2026-02,2026-W06,14,https://example.com/glo/2142
+152,news,Airtel,airtel cuts data prices by 20 percent for all subscribers,0.9153,0.7762,0.4329,0.0,positive,2026-02-12,2026-02,2026-W06,11,https://example.com/airtel/9605
+56,twitter,MTN,mtn network maintenance scheduled for sunday morning,0.038,0.0377,0.1408,0.0,neutral,2026-02-12,2026-02,2026-W06,7,https://example.com/mtn/8538
+690,twitter,Smile,mtn customer service actually resolved my issue quickly impressed,0.2744,0.2305,0.1937,0.0,positive,2026-02-12,2026-02,2026-W06,2,https://example.com/smile/9886
+620,twitter,Smile,mtn network maintenance scheduled for sunday morning,0.0318,0.024,0.3415,0.0,neutral,2026-02-12,2026-02,2026-W06,0,https://example.com/smile/3188
+79,twitter,MTN,just renewed my mtn data plan value for money as always,0.1903,0.1672,0.4412,0.0,positive,2026-02-11,2026-02,2026-W06,11,https://example.com/mtn/1353
+175,news,Airtel,airtel signs partnership deal with international telecom provider,0.0146,0.0134,0.3932,0.0,neutral,2026-02-11,2026-02,2026-W06,7,https://example.com/airtel/5823
+397,twitter,9mobile,airtel data finished before it should have suspected billing fraud,-0.3977,0.0,0.2435,0.3663,negative,2026-02-11,2026-02,2026-W06,3,https://example.com/9mobile/2119
+101,twitter,MTN,mtn customer service actually resolved my issue quickly impressed,0.296,0.2785,0.3905,0.0,positive,2026-02-10,2026-02,2026-W06,14,https://example.com/mtn/6933
+293,news,Glo,glo customer complaints up 35 percent in latest industry report,-0.892,0.0,0.201,0.5813,negative,2026-02-10,2026-02,2026-W06,12,https://example.com/glo/8893
+33,news,MTN,mtn network reliability drops amid infrastructure challenges,-0.4701,0.0,0.4917,0.4216,negative,2026-02-10,2026-02,2026-W06,6,https://example.com/mtn/7597
+419,twitter,9mobile,glo internet disconnects every few minutes how is this acceptable,-0.1995,0.0,0.3377,0.1845,negative,2026-02-10,2026-02,2026-W06,3,https://example.com/9mobile/5661
+451,twitter,9mobile,worst customer service experience ever with glo never again,-0.1537,0.0,0.3001,0.1441,negative,2026-02-10,2026-02,2026-W06,2,https://example.com/9mobile/2628
+47,twitter,MTN,spectranet fibre connection never disappoints fast reliable,0.065,0.0475,0.287,0.0,positive,2026-02-10,2026-02,2026-W06,1,https://example.com/mtn/2555
+516,twitter,Spectranet,smile internet perfect for working from home no complaints,0.3057,0.2386,0.2185,0.0,positive,2026-02-09,2026-02,2026-W06,15,https://example.com/spectranet/2435
+92,twitter,MTN,airtel data plan worth every naira excellent network coverage,0.0852,0.0792,0.2871,0.0,positive,2026-02-09,2026-02,2026-W06,13,https://example.com/mtn/7126
+680,twitter,Smile,just renewed my mtn data plan value for money as always,0.1281,0.1109,0.2015,0.0,positive,2026-02-09,2026-02,2026-W06,12,https://example.com/smile/8720
+679,twitter,Smile,glo network always slow during peak hours so frustrating,-0.4755,0.0,0.3821,0.3743,negative,2026-02-09,2026-02,2026-W06,8,https://example.com/smile/2692
+597,twitter,Spectranet,worst customer service experience ever with glo never again,-0.3034,0.0,0.3008,0.2042,negative,2026-02-09,2026-02,2026-W06,5,https://example.com/spectranet/6444
+28,twitter,MTN,airtel data finished before it should have suspected billing fraud,-0.209,0.0,0.2642,0.1531,negative,2026-02-09,2026-02,2026-W06,3,https://example.com/mtn/1434
+571,twitter,Spectranet,spectranet fibre connection never disappoints fast reliable,0.2812,0.2533,0.2459,0.0,positive,2026-02-09,2026-02,2026-W06,3,https://example.com/spectranet/8945
+446,news,9mobile,9mobile launches fibre broadband service fastest speeds in region,0.1326,0.0874,0.2286,0.0,positive,2026-02-09,2026-02,2026-W06,1,https://example.com/9mobile/4578
+583,twitter,Spectranet,airtel 5g speeds are incredible streaming without buffering,0.1946,0.1365,0.2845,0.0,positive,2026-02-08,2026-02,2026-W05,23,https://example.com/spectranet/9298
+199,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.3407,0.2616,0.4466,0.0,positive,2026-02-08,2026-02,2026-W05,23,https://example.com/airtel/1415
+97,twitter,MTN,airtel keeps throttling my connection after half my data is used,-0.2161,0.0,0.3557,0.1669,negative,2026-02-08,2026-02,2026-W05,23,https://example.com/mtn/8638
+697,twitter,Smile,airtel keeps throttling my connection after half my data is used,-0.2441,0.0,0.2651,0.1728,negative,2026-02-08,2026-02,2026-W05,20,https://example.com/smile/4846
+100,twitter,MTN,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.0958,0.0,0.1136,0.0647,negative,2026-02-08,2026-02,2026-W05,17,https://example.com/mtn/7841
+481,news,Spectranet,spectranet wins best telecom provider award customer satisfaction survey,0.213,0.141,0.3272,0.0,positive,2026-02-07,2026-02,2026-W05,22,https://example.com/spectranet/7380
+422,twitter,9mobile,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.6416,0.0,0.4489,0.3863,negative,2026-02-07,2026-02,2026-W05,18,https://example.com/9mobile/1264
+176,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.4909,0.3978,0.4431,0.0,positive,2026-02-07,2026-02,2026-W05,13,https://example.com/airtel/7825
+611,twitter,Smile,mtn internet speed has been great this week finally enjoying browsing,0.3454,0.2336,0.4945,0.0,positive,2026-02-07,2026-02,2026-W05,11,https://example.com/smile/2234
+389,twitter,9mobile,mtn customer service actually resolved my issue quickly impressed,0.4446,0.3283,0.4635,0.0,positive,2026-02-07,2026-02,2026-W05,8,https://example.com/9mobile/9132
+502,twitter,Spectranet,mtn internet speed has been great this week finally enjoying browsing,0.52,0.357,0.4498,0.0,positive,2026-02-07,2026-02,2026-W05,5,https://example.com/spectranet/3783
+165,news,Airtel,airtel customer satisfaction scores hit five year high,0.3678,0.3665,0.1838,0.0,positive,2026-02-06,2026-02,2026-W05,17,https://example.com/airtel/7751
+122,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.4483,0.293,0.3808,0.0,positive,2026-02-06,2026-02,2026-W05,16,https://example.com/airtel/1170
+517,news,Spectranet,spectranet regulatory filing submitted to ncc for spectrum renewal,0.0317,0.0247,0.3225,0.0,neutral,2026-02-06,2026-02,2026-W05,7,https://example.com/spectranet/9882
+550,news,Spectranet,spectranet customer satisfaction scores hit five year high,0.1892,0.1539,0.3246,0.0,positive,2026-02-06,2026-02,2026-W05,5,https://example.com/spectranet/3742
+58,news,MTN,mtn cuts data prices by 20 percent for all subscribers,0.637,0.4608,0.1883,0.0,positive,2026-02-06,2026-02,2026-W05,3,https://example.com/mtn/6110
+545,twitter,Spectranet,airtel data finished before it should have suspected billing fraud,-0.3645,0.0,0.1076,0.2432,negative,2026-02-06,2026-02,2026-W05,3,https://example.com/spectranet/6535
+316,twitter,Glo,glo internet speed is embarrassingly slow cannot work from home,-0.3344,0.0,0.4123,0.3094,negative,2026-02-06,2026-02,2026-W05,1,https://example.com/glo/6713
+322,twitter,Glo,smile internet perfect for working from home no complaints,1.0,0.8465,0.1454,0.0,positive,2026-02-06,2026-02,2026-W05,1,https://example.com/glo/4318
+589,news,Spectranet,spectranet faces backlash over unexpected data depletion complaints surge,-0.3737,0.0,0.2252,0.2437,negative,2026-02-06,2026-02,2026-W05,1,https://example.com/spectranet/9893
+644,twitter,Smile,comparing mtn vs airtel data plans for monthly subscription,-0.026,0.0,0.2086,0.0176,neutral,2026-02-06,2026-02,2026-W05,0,https://example.com/smile/4800
+23,twitter,MTN,comparing mtn vs airtel data plans for monthly subscription,0.05,0.0448,0.3132,0.0,neutral,2026-02-06,2026-02,2026-W05,0,https://example.com/mtn/5200
+610,news,Smile,smile signs partnership deal with international telecom provider,0.0435,0.0367,0.4837,0.0,neutral,2026-02-05,2026-02,2026-W05,22,https://example.com/smile/7660
+494,twitter,Spectranet,mtn customer service actually resolved my issue quickly impressed,0.4278,0.388,0.1183,0.0,positive,2026-02-05,2026-02,2026-W05,21,https://example.com/spectranet/4584
+672,twitter,Smile,airtel data finished before it should have suspected billing fraud,-0.1987,0.0,0.3086,0.1695,negative,2026-02-05,2026-02,2026-W05,18,https://example.com/smile/7519
+224,twitter,Airtel,mtn network congestion every evening ruins my streaming experience,-0.1259,0.0,0.1094,0.0965,negative,2026-02-05,2026-02,2026-W05,18,https://example.com/airtel/3672
+348,news,Glo,glo regulatory filing submitted to ncc for spectrum renewal,0.0087,0.0055,0.1618,0.0,neutral,2026-02-05,2026-02,2026-W05,16,https://example.com/glo/7173
+213,news,Airtel,airtel cuts data prices by 20 percent for all subscribers,0.0695,0.0523,0.1421,0.0,positive,2026-02-05,2026-02,2026-W05,16,https://example.com/airtel/4730
+223,twitter,Airtel,mtn customer service actually resolved my issue quickly impressed,0.0563,0.0464,0.217,0.0,positive,2026-02-05,2026-02,2026-W05,6,https://example.com/airtel/5921
+236,twitter,Airtel,mtn internet speed has been great this week finally enjoying browsing,0.0601,0.0549,0.1974,0.0,positive,2026-02-05,2026-02,2026-W05,4,https://example.com/airtel/1906
+206,news,Airtel,airtel launches fibre broadband service fastest speeds in region,0.3265,0.2422,0.2924,0.0,positive,2026-02-05,2026-02,2026-W05,1,https://example.com/airtel/1768
+118,twitter,MTN,9mobile coverage dead zone in my entire neighborhood useless,-0.3749,0.0,0.2225,0.2908,negative,2026-02-04,2026-02,2026-W05,21,https://example.com/mtn/5320
+562,twitter,Spectranet,airtel data plan worth every naira excellent network coverage,0.3013,0.2158,0.1322,0.0,positive,2026-02-04,2026-02,2026-W05,20,https://example.com/spectranet/1988
+82,news,MTN,mtn slapped with fine by ncc over quality of service violations,-0.0862,0.0,0.1199,0.0799,negative,2026-02-04,2026-02,2026-W05,19,https://example.com/mtn/6293
+512,twitter,Spectranet,mtn internet speed has been great this week finally enjoying browsing,0.0895,0.0621,0.4169,0.0,positive,2026-02-04,2026-02,2026-W05,19,https://example.com/spectranet/9328
+80,twitter,MTN,airtel data finished before it should have suspected billing fraud,-0.5163,0.0,0.3505,0.3377,negative,2026-02-04,2026-02,2026-W05,18,https://example.com/mtn/5481
+184,news,Airtel,airtel network reliability drops amid infrastructure challenges,-0.2412,0.0,0.1027,0.2041,negative,2026-02-04,2026-02,2026-W05,18,https://example.com/airtel/3639
+483,twitter,Spectranet,glo network always slow during peak hours so frustrating,-0.0682,0.0,0.1644,0.0592,negative,2026-02-04,2026-02,2026-W05,15,https://example.com/spectranet/9214
+320,twitter,Glo,mtn network congestion every evening ruins my streaming experience,-0.3316,0.0,0.1907,0.3125,negative,2026-02-04,2026-02,2026-W05,13,https://example.com/glo/7313
+180,twitter,Airtel,airtel 5g speeds are incredible streaming without buffering,0.3088,0.2656,0.1881,0.0,positive,2026-02-04,2026-02,2026-W05,10,https://example.com/airtel/4946
+221,twitter,Airtel,airtel 5g speeds are incredible streaming without buffering,0.2039,0.1652,0.3561,0.0,positive,2026-02-04,2026-02,2026-W05,9,https://example.com/airtel/9423
+297,news,Glo,glo faces backlash over unexpected data depletion complaints surge,-0.6439,0.0,0.2104,0.4934,negative,2026-02-04,2026-02,2026-W05,5,https://example.com/glo/1303
+37,twitter,MTN,glo network always slow during peak hours so frustrating,-0.487,0.0,0.2779,0.4316,negative,2026-02-04,2026-02,2026-W05,2,https://example.com/mtn/6894
+667,news,Smile,smile slapped with fine by ncc over quality of service violations,-0.4438,0.0,0.2514,0.412,negative,2026-02-04,2026-02,2026-W05,0,https://example.com/smile/5984
+238,news,Airtel,airtel customer satisfaction scores hit five year high,0.1428,0.1151,0.1209,0.0,positive,2026-02-03,2026-02,2026-W05,23,https://example.com/airtel/6701
+130,twitter,Airtel,smile internet perfect for working from home no complaints,0.478,0.4406,0.3278,0.0,positive,2026-02-03,2026-02,2026-W05,21,https://example.com/airtel/8195
+138,news,Airtel,airtel launches fibre broadband service fastest speeds in region,0.1469,0.1033,0.2365,0.0,positive,2026-02-03,2026-02,2026-W05,19,https://example.com/airtel/5824
+658,news,Smile,smile slapped with fine by ncc over quality of service violations,-0.3094,0.0,0.2824,0.2249,negative,2026-02-03,2026-02,2026-W05,18,https://example.com/smile/3070
+539,twitter,Spectranet,mtn customer service actually resolved my issue quickly impressed,0.1092,0.0799,0.2013,0.0,positive,2026-02-03,2026-02,2026-W05,17,https://example.com/spectranet/8943
+314,twitter,Glo,spectranet vs smile which is better for small business,-0.0347,0.0,0.2866,0.029,neutral,2026-02-03,2026-02,2026-W05,12,https://example.com/glo/4497
+129,news,Airtel,airtel outage affects thousands of customers in major cities,-0.1667,0.0,0.2445,0.1489,negative,2026-02-03,2026-02,2026-W05,9,https://example.com/airtel/8442
+42,twitter,MTN,9mobile coverage dead zone in my entire neighborhood useless,-0.4652,0.0,0.1799,0.3905,negative,2026-02-03,2026-02,2026-W05,6,https://example.com/mtn/3533
+406,twitter,9mobile,mtn internet completely down for 3 hours terrible service,-0.3177,0.0,0.2012,0.1916,negative,2026-02-03,2026-02,2026-W05,5,https://example.com/9mobile/7923
+600,news,Spectranet,spectranet network reliability drops amid infrastructure challenges,-0.2339,0.0,0.1454,0.1842,negative,2026-02-02,2026-02,2026-W05,20,https://example.com/spectranet/3313
+207,news,Airtel,airtel cuts data prices by 20 percent for all subscribers,0.1094,0.0956,0.2919,0.0,positive,2026-02-02,2026-02,2026-W05,20,https://example.com/airtel/6732
+166,twitter,Airtel,just renewed my mtn data plan value for money as always,0.2515,0.1783,0.1835,0.0,positive,2026-02-02,2026-02,2026-W05,18,https://example.com/airtel/6968
+646,twitter,Smile,airtel network coverage improved a lot in my area good job,0.6963,0.662,0.4112,0.0,positive,2026-02-02,2026-02,2026-W05,16,https://example.com/smile/1041
+720,twitter,Smile,glo internet speed is embarrassingly slow cannot work from home,-0.3218,0.0,0.1592,0.2251,negative,2026-02-02,2026-02,2026-W05,11,https://example.com/smile/5516
+134,news,Airtel,airtel expands 4g lte coverage across 12 new states improves connectivity,0.1988,0.1662,0.463,0.0,positive,2026-02-02,2026-02,2026-W05,11,https://example.com/airtel/4368
+191,news,Airtel,airtel customer satisfaction scores hit five year high,0.5526,0.5193,0.3548,0.0,positive,2026-02-02,2026-02,2026-W05,9,https://example.com/airtel/2000
+486,twitter,Spectranet,airtel network coverage improved a lot in my area good job,0.3672,0.2824,0.2156,0.0,positive,2026-02-02,2026-02,2026-W05,5,https://example.com/spectranet/2659
+209,twitter,Airtel,just renewed my mtn data plan value for money as always,0.1051,0.0844,0.2634,0.0,positive,2026-02-02,2026-02,2026-W05,4,https://example.com/airtel/2726
+235,twitter,Airtel,airtel data finished before it should have suspected billing fraud,-0.1997,0.0,0.4895,0.1341,negative,2026-02-02,2026-02,2026-W05,1,https://example.com/airtel/1237
+436,twitter,9mobile,mtn internet speed has been great this week finally enjoying browsing,0.2105,0.1473,0.4316,0.0,positive,2026-02-01,2026-02,2026-W04,23,https://example.com/9mobile/7793
+470,twitter,9mobile,glo network always slow during peak hours so frustrating,-0.1899,0.0,0.4677,0.1642,negative,2026-02-01,2026-02,2026-W04,21,https://example.com/9mobile/6592
+145,twitter,Airtel,airtel data plan worth every naira excellent network coverage,0.1205,0.0971,0.1707,0.0,positive,2026-02-01,2026-02,2026-W04,20,https://example.com/airtel/1955
+326,twitter,Glo,spectranet fibre connection never disappoints fast reliable,0.2736,0.1906,0.2677,0.0,positive,2026-02-01,2026-02,2026-W04,19,https://example.com/glo/2641
+16,news,MTN,mtn faces backlash over unexpected data depletion complaints surge,-0.6706,0.0,0.4415,0.6325,negative,2026-02-01,2026-02,2026-W04,14,https://example.com/mtn/5465
+29,twitter,MTN,mtn customer service actually resolved my issue quickly impressed,1.0,0.7865,0.3646,0.0,positive,2026-02-01,2026-02,2026-W04,11,https://example.com/mtn/3190
+488,twitter,Spectranet,9mobile customer service kept me on hold for 45 minutes unacceptable,-0.1085,0.0,0.177,0.0885,negative,2026-02-01,2026-02,2026-W04,3,https://example.com/spectranet/8057
+444,twitter,9mobile,mtn internet completely down for 3 hours terrible service,-0.0767,0.0,0.4591,0.0716,negative,2026-02-01,2026-02,2026-W04,2,https://example.com/9mobile/5310
+482,twitter,Spectranet,just renewed my mtn data plan value for money as always,0.1385,0.0937,0.4987,0.0,positive,2026-02-01,2026-02,2026-W04,1,https://example.com/spectranet/7650
+270,news,Glo,glo customer complaints up 35 percent in latest industry report,-0.2364,0.0,0.1055,0.2156,negative,2026-02-01,2026-02,2026-W04,1,https://example.com/glo/2588
+527,twitter,Spectranet,spectranet fibre connection never disappoints fast reliable,0.4479,0.391,0.4712,0.0,positive,2026-01-31,2026-01,2026-W04,23,https://example.com/spectranet/7860
+370,twitter,9mobile,comparing mtn vs airtel data plans for monthly subscription,-0.0059,0.0,0.2516,0.0047,neutral,2026-01-31,2026-01,2026-W04,22,https://example.com/9mobile/4618

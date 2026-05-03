@@ -1,220 +1,105 @@
-# ISP-CUSTOMER-SENTIMENT-ANALYSIS
-# 📡 ISP Customer Sentiment Analysis
-### Python · SQL · Tableau | Portfolio Project
+# ISP Customer Sentiment Analysis
+## Portfolio Project | Python · SQL · Tableau
 
 ---
 
-## 📌 Project Overview
-
-This project analyses customer sentiment towards major Nigerian Internet Service Providers (ISPs) — **MTN, Airtel, Glo, 9mobile, Spectranet and Smile** — using data scraped from Twitter/X and news sites.
-
-The goal is to answer three key business questions:
-- Which ISP has the worst customer sentiment?
-- Which ISP receives the most complaints?
-- **Why** are customers dissatisfied — what specific issues drive complaints?
-
----
-
-## 🔍 Key Findings
-
-| ISP | Avg Sentiment Score | Complaint Rate | Top Complaint |
-|---|---|---|---|
-| Spectranet | +0.15 | Lowest | — |
-| Airtel | +0.10 | Low | Coverage |
-| MTN | +0.05 | Moderate | Speed |
-| Smile | +0.02 | Moderate | Value |
-| 9mobile | -0.12 | **Highest** | Customer service |
-| Glo | -0.08 | High | Slow speed |
-
-> **9mobile deep dive:** Analysis revealed that 9mobile scored the worst sentiment of all ISPs. Complaints are driven primarily by poor customer service response times, network outages, and data depletion issues — with complaint spikes concentrated in specific months suggesting recurring infrastructure problems.
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Tool | Purpose |
-|---|---|---|
-| Scraping | requests, BeautifulSoup, snscrape | Collect tweets and news articles |
-| Processing | pandas, regex, nltk | Clean and prepare text data |
-| NLP | VADER, TF-IDF, LDA | Sentiment scoring and topic extraction |
-| Storage | SQLite | Store and query all records |
-| Analysis | SQL | Aggregate and surface insights |
-| Visualisation | matplotlib, Tableau Public | Charts and interactive dashboard |
-
----
-
-## 📁 Project Structure
+### Project structure
 
 ```
-isp-sentiment-analysis/
-│
-├── isp_sentiment_pipeline.py     # Main scraping + NLP + storage pipeline
-├── generate_sample_data.py       # Seed DB with realistic sample data
-├── export_for_tableau.py         # Export CSVs for Tableau connection
-├── topic_analysis.py             # Rule-based + TF-IDF complaint topic extraction
-├── lda_topic_modelling.py        # LDA automated theme discovery
-├── 9mobile_deep_dive.py          # 9mobile focused deep dive dashboard
-│
-├── isp_sentiment_queries.sql     # 11 SQL analysis queries + schema
-├── requirements.txt              # Python dependencies
-│
-├── outputs/
-│   ├── isp_sentiment.db          # SQLite database
-│   ├── sentiment_data.csv        # Main Tableau data source
-│   ├── isp_summary.csv           # KPI summary data
-│   ├── monthly_trend.csv         # Trend line data
-│   ├── topic_data.csv            # Complaint topics data
-│   ├── keywords_per_isp.csv      # TF-IDF keywords per ISP
-│   ├── lda_reviews.csv           # LDA topic assignments
-│   └── 9mobile_complaints.csv    # 9mobile deep dive data
-│
-└── README.md
+isp-sentiment/
+├── isp_sentiment_pipeline.py   ← Main pipeline (scrape → clean → NLP → store)
+├── isp_sentiment_queries.sql   ← SQL schema + 11 analysis queries
+├── requirements.txt            ← Python dependencies
+└── isp_sentiment.db            ← SQLite database (auto-created on first run)
 ```
 
 ---
 
-## How to Run
+### Setup
 
-### 1. Install dependencies
+**1. Install Python dependencies**
 ```bash
 pip install -r requirements.txt
-python -m nltk.downloader vader_lexicon punkt stopwords
 ```
 
-### 2. Run the scraping pipeline
+**2. Download NLTK data** (auto-runs on first pipeline execution, or manually):
 ```bash
+python -c "import nltk; nltk.download(['vader_lexicon', 'punkt', 'stopwords'])"
+```
+
+**3. (Optional) Add your NewsAPI key**
+Edit `isp_sentiment_pipeline.py` and replace:
+```python
+NEWS_API_KEY = "YOUR_NEWSAPI_KEY_HERE"
+```
+Get a free key at https://newsapi.org — 500 requests/day free tier.
+Without a key, the pipeline falls back to Google News RSS automatically.
+
+**4. (Optional) Twitter/X scraping**
+The pipeline uses `snscrape` which requires no API key:
+```bash
+pip install snscrape
+```
+Or use the official Twitter API v2 with tweepy — see comments in the script.
+
+---
+
+### Running the pipeline
+
+```bash
+# Full pipeline — scrapes, scores, saves to DB
 python isp_sentiment_pipeline.py
-```
 
-### 3. Seed sample data
-```bash
-python generate_sample_data.py
-```
-
-### 4. Export to Tableau
-```bash
-python export_for_tableau.py
-```
-
-### 5. Run topic analysis
-```bash
-python topic_analysis.py
-python lda_topic_modelling.py
-```
-
-### 6. Run 9mobile deep dive
-```bash
-python 9mobile_deep_dive.py
+# View summary stats from the DB
+python isp_sentiment_pipeline.py stats
 ```
 
 ---
 
-## 🗄️ Database Schema
+### Connecting Tableau to the database
 
-```sql
-CREATE TABLE raw_data (
-    id           INTEGER PRIMARY KEY AUTOINCREMENT,
-    source       TEXT,
-    isp          TEXT,
-    text         TEXT,
-    url          TEXT,
-    author       TEXT,
-    published_at TEXT,
-    scraped_at   TEXT
-);
+1. Open Tableau Desktop / Tableau Public
+2. Connect → SQLite → select `isp_sentiment.db`
+3. Drag the `sentiment_scores` table to the canvas
+   — OR use **Custom SQL** and paste any query from `isp_sentiment_queries.sql`
+4. Use the `v_dashboard_summary` view for the main dashboard sheet
 
-CREATE TABLE sentiment_scores (
-    id           INTEGER PRIMARY KEY AUTOINCREMENT,
-    source       TEXT,
-    isp          TEXT,
-    text_clean   TEXT,
-    compound     REAL,
-    positive     REAL,
-    neutral      REAL,
-    negative     REAL,
-    label        TEXT,
-    published_at TEXT,
-    scraped_at   TEXT,
-    url          TEXT
-);
+**Recommended Tableau charts:**
+
+| Chart type      | Fields                              | Purpose                       |
+|-----------------|-------------------------------------|-------------------------------|
+| Line chart      | date → avg(compound) by ISP         | Sentiment trend over time     |
+| Bar chart       | ISP → avg(compound)                 | ISP comparison leaderboard    |
+| Stacked bar     | ISP → count, colored by label       | Positive/neutral/negative mix |
+| Heatmap         | ISP (rows) × month (cols) → avg compound | Seasonal patterns        |
+| Word cloud      | Export text_clean to a word cloud tool | Top complaint keywords    |
+| KPI card        | avg(compound) for each ISP          | At-a-glance sentiment score   |
+
+---
+
+### Customising for your region
+
+Edit `ISP_NAMES` in `isp_sentiment_pipeline.py`:
+```python
+ISP_NAMES = ["MTN", "Airtel", "Glo", "9mobile", "Spectranet", "Smile"]
+```
+
+Edit `TWITTER_KEYWORDS` to tune what topics are collected:
+```python
+TWITTER_KEYWORDS = [
+    "internet down", "slow internet", "customer service",
+    "data plan", "network issue", "speed", "billing", "outage",
+]
 ```
 
 ---
 
-## 📊 Tableau Dashboards
+### Tech stack
 
-### Dashboard 1 — ISP Sentiment Overview
-| Sheet | Chart | Insight |
-|---|---|---|
-| KPI Summary | Text table | At-a-glance scores |
-| Leaderboard | Bar chart | ISP ranking by sentiment |
-| Complaint Rate | Dual bar | Volume vs rate |
-| Trend | Line chart | Sentiment over time |
-| Stacked bar | Bar chart | Sentiment mix |
-| Source compare | Side-by-side bar | Twitter vs News |
-| Heatmap | Square marks | Monthly patterns |
-
-### Dashboard 2 — 9mobile Deep Dive
-| Sheet | Chart | Insight |
-|---|---|---|
-| KPI Banner | Text | Total complaints, rate, avg score |
-| Cause For Dissatisfaction| Bar Chart| Sentiment breakdown |
-| Topics | Bar | What customers complain about |
-| Trend | Line | When complaints spiked |
-| Keywords | Bar | TF-IDF complaint language |
-| ISP Comparison | Bar | 9mobile vs competitors |
-| Twitter vs News | Stacked bar | Source of complaints |
-
-🔗View Live Dashboard on Tableau
-https://public.tableau.com/authoring/ISPCUSTOMERSENTIMENTANALYSIS/Sheet5/Dashboard%201#2
-
----
-
-## 🧠 NLP Methodology
-
-**VADER Sentiment Scoring**
-Tuned for social media text. Each record gets a compound score (-1.0 to +1.0) and a label — positive, neutral, or negative.
-
-**Rule-based Topic Tagging**
-Maps complaints to 8 categories: Network outage, Slow speed, Data depletion, Billing issues, Customer service, Poor coverage, Value for money, App issues.
-
-**LDA Topic Modelling**
-Automatically discovers hidden complaint themes without predefined categories.
-
-**TF-IDF Keywords**
-Surfaces words uniquely important to each ISP's complaints.
-
----
-
-## 💡 Key Insights
-
-1. Glo and 9mobile score below neutral with the highest complaint rates
-2. Network speed and outages are the most common complaint themes industry-wide
-3. Customer service quality is a key differentiator between ISPs
-4. Twitter drives more complaints than news coverage
-5. Complaint spikes are seasonal — suggesting recurring infrastructure issues
-
----
-
-## 🚀 Future Improvements
-
-- Real-time scraping with scheduling (Airflow or cron)
-- Expand to more ISPs and regions
-- Aspect-based sentiment analysis (ABSA)
-- Live Streamlit web app dashboard
-- PostgreSQL for production-scale storage
-- Named entity recognition (NER)
-
-Note : Run with Google Colab
----
-
-## 👤 Author : Isaac Andabai
-
-
-.[LinkedIn] https://www.linkedin.com/in/andabai-isaac-aa217030b/
-· [GitHub] https://github.com/andabaipina 
-· [Tableau Public] https://public.tableau.com/app/profile/pina.andabai/vizzes
-
----
-
-*Data collected for educational and portfolio purposes only.*
+| Layer        | Tool                        |
+|--------------|-----------------------------|
+| Scraping     | `requests`, `BeautifulSoup`, `snscrape` |
+| Data wrangling | `pandas`                  |
+| NLP / Sentiment | `VADER` (nltk)           |
+| Storage      | `SQLite` (upgrade to PostgreSQL for production) |
+| Visualisation | Tableau Public / Desktop   |
