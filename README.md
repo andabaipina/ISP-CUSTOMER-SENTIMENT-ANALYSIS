@@ -205,12 +205,15 @@ Surfaces words uniquely important to each ISP's complaints.
 - PostgreSQL for production-scale storage
 - Named entity recognition (NER)
 
+Note : Run with Google Colab
 ---
 
-## 👤 Author
+## 👤 Author : Isaac Andabai
 
-**[Your Name]**
-[LinkedIn](#) · [GitHub](#) · [Tableau Public](#)
+
+.[LinkedIn] https://www.linkedin.com/in/andabai-isaac-aa217030b/
+· [GitHub] https://github.com/andabaipina 
+· [Tableau Public] https://public.tableau.com/app/profile/pina.andabai/vizzes
 
 ---
 
